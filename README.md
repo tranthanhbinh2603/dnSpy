@@ -15,7 +15,7 @@ See below for more features
 ## Building
 
 ```PS
-git clone --recursive https://github.com/dnSpy/dnSpy.git
+git clone --recursive https://github.com/VNGhostMans/dnSpy.git
 cd dnSpy
 # or dotnet build
 ./build.ps1 -NoMsbuild
