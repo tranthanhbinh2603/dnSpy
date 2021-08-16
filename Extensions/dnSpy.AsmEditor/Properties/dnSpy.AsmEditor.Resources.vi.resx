@@ -1308,7 +1308,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Không thể sử dụng data này: {0}</value>
   </data>
   <data name="Error_LocalHasBeenRemoved" xml:space="preserve">
-    <value>Biến local đã bị xóa</value>
+    <value>Local đã bị xóa</value>
   </data>
   <data name="Error_NewResourceDataMustBeImage" xml:space="preserve">
     <value>Data mới phải là hình ảnh. Error: {0}</value>
@@ -1338,7 +1338,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Toán hạng phải là một tập hợp các chỉ thị</value>
   </data>
   <data name="Error_OpMustBeLocal" xml:space="preserve">
-    <value>Toán hạng phải là 1 biến local</value>
+    <value>Toán hạng phải là 1 Local</value>
   </data>
   <data name="Error_OpMustBeMethod" xml:space="preserve">
     <value>Toán hạng phải là 1 method</value>
@@ -1476,28 +1476,28 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Tên</value>
   </data>
   <data name="LocalsTab" xml:space="preserve">
-    <value>Biến local</value>
+    <value>Local</value>
   </data>
   <data name="LocalType" xml:space="preserve">
     <value>Kiểu</value>
   </data>
   <data name="Local_Command1" xml:space="preserve">
-    <value>Thêm biến local mới trước lựa chọn</value>
+    <value>Thêm Local mới trước lựa chọn</value>
   </data>
   <data name="Local_Command2" xml:space="preserve">
-    <value>Thêm biến local mới sau lựa chọn</value>
+    <value>Thêm Local mới sau lựa chọn</value>
   </data>
   <data name="Local_Command3" xml:space="preserve">
-    <value>Thêm vào biến local mới</value>
+    <value>Thêm vào Local mới</value>
   </data>
   <data name="Local_Command4" xml:space="preserve">
-    <value>Xóa biến local</value>
+    <value>Xóa Local</value>
   </data>
   <data name="Local_Command5" xml:space="preserve">
-    <value>Xóa biến local</value>
+    <value>Xóa Local</value>
   </data>
   <data name="Local_Command6" xml:space="preserve">
-    <value>Xóa tất cả biến local</value>
+    <value>Xóa tất cả Local</value>
   </data>
   <data name="Local_CompilerGenerated_Character" xml:space="preserve">
     <value>C</value>

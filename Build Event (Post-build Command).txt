@@ -2,5 +2,5 @@ ROBOCOPY "$(TargetDir) " "$(TargetDir)bin\ " /XF *.exe *.config *.manifest /XD b
 if %errorlevel% leq 4 exit 0 else exit %errorlevel%
 
 
-XF: Loại trừ các file (ở đây chúng ta không di chuyển *.exe, *.config hoặc *.manifest file)
+XF: Loại trừ các file (ở đây chúng ta không di chuyển *.exe, *.config và *.manifest file)
 XD: Loại trừ các thư mục (ở đây chúng ta không di chuyển thư mục bin)
