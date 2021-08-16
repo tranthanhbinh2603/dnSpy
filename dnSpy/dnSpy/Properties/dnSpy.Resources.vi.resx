@@ -1212,7 +1212,7 @@
     <value>Tất cả được hỗ trợ</value>
   </data>
   <data name="DocumentFilterType_DotNetOnly" xml:space="preserve">
-    <value>.NET only</value>
+    <value>Chỉ .NET</value>
   </data>
   <data name="AssemblyExplorer_AllFilesFilteredOut" xml:space="preserve">
     <value>Tất cả các tệp đã được lọc ra.

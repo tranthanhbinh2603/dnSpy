@@ -1722,13 +1722,13 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Lưu mọi thứ</value>
   </data>
   <data name="SaveModuleCommand" xml:space="preserve">
-    <value>Lưu mô đun...</value>
+    <value>Lưu Module...</value>
   </data>
   <data name="SaveModuleCommand2" xml:space="preserve">
-    <value>Lưu mô đun</value>
+    <value>Lưu Module</value>
   </data>
   <data name="SaveModulesCommand" xml:space="preserve">
-    <value>Lưu mô đun...</value>
+    <value>Lưu Module...</value>
   </data>
   <data name="SaveModules_CancelingSave" xml:space="preserve">
     <value>Huỷ lưu. Vui lòng đợi...</value>

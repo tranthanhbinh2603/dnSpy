@@ -133,13 +133,13 @@
     <value>Tối ưu hóa mã</value>
   </data>
   <data name="CompilerSettings_OptionCompareBinary" xml:space="preserve">
-    <value>Tùy chọn so sánh: nhị phân</value>
+    <value>Tùy chọn so sánh: binary</value>
   </data>
   <data name="CompilerSettings_OptionExplicit" xml:space="preserve">
-    <value>Tùy chọn rõ ràng</value>
+    <value>Tùy chọn explicit</value>
   </data>
   <data name="CompilerSettings_OptionInfer" xml:space="preserve">
-    <value>Tùy chọn suy ra</value>
+    <value>Tùy chọn infer</value>
   </data>
   <data name="CompilerSettings_OptionStrict" xml:space="preserve">
     <value>Tùy chọn nghiêm ngặt</value>
@@ -157,37 +157,37 @@
     <value>Biểu thức đã được đánh giá và không có giá trị</value>
   </data>
   <data name="DebuggerVarsWindow_CSharp_StaticMembers" xml:space="preserve">
-    <value>Member tĩnh</value>
+    <value>Static Member</value>
   </data>
   <data name="DebuggerVarsWindow_DynamicView" xml:space="preserve">
-    <value>Chế độ xem động</value>
+    <value>Dynamic View</value>
   </data>
   <data name="DebuggerVarsWindow_Error_PropertyName" xml:space="preserve">
     <value>Lỗi</value>
   </data>
   <data name="DebuggerVarsWindow_ExpandDynamicViewMessage" xml:space="preserve">
-    <value>Mở rộng Chế độ xem động sẽ nhận được các Members động cho đối tượng</value>
+    <value>Expanding the Dynamic View will get the dynamic members for the object</value>
   </data>
   <data name="DebuggerVarsWindow_ExpandResultsViewMessage" xml:space="preserve">
     <value>Mở rộng Chế độ xem kết quả sẽ liệt kê</value>
   </data>
   <data name="DebuggerVarsWindow_InstanceMembers" xml:space="preserve">
-    <value>Thành viên sơ thẩm</value>
+    <value>Instance members</value>
   </data>
   <data name="DebuggerVarsWindow_RawView" xml:space="preserve">
-    <value>Xem thô</value>
+    <value>Raw View</value>
   </data>
   <data name="DebuggerVarsWindow_ResultsView" xml:space="preserve">
     <value>Xem kết quả</value>
   </data>
   <data name="DebuggerVarsWindow_VisualBasic_SharedMembers" xml:space="preserve">
-    <value>Thành viên được chia sẻ</value>
+    <value>Shared members</value>
   </data>
   <data name="DelegatesToolTip" xml:space="preserve">
-    <value>Đại biểu</value>
+    <value>Delegates</value>
   </data>
   <data name="DynamicViewAssemblyNotLoaded" xml:space="preserve">
-    <value>Chế độ xem động yêu cầu {0} để được tham chiếu</value>
+    <value>Dynamic View requires {0} to be referenced</value>
   </data>
   <data name="DynamicView_MustBeDynamicOrComType" xml:space="preserve">
     <value>Chỉ các đối tượng COM hoặc Dynamic mới có thể có Dynamic View</value>
@@ -199,10 +199,10 @@
     <value>Các sự kiện</value>
   </data>
   <data name="ExtensionMethodsToolTip" xml:space="preserve">
-    <value>Phương pháp mở rộng</value>
+    <value>Extension methods</value>
   </data>
   <data name="FieldsToolTip" xml:space="preserve">
-    <value>Lĩnh vực</value>
+    <value>Fields</value>
   </data>
   <data name="FilterExpressionEvaluator_CompiledExpressionThrewAnException" xml:space="preserve">
     <value>Biểu thức biên dịch đã ném một ngoại lệ: {0}</value>
@@ -217,7 +217,7 @@
     <value>Từ khóa</value>
   </data>
   <data name="LocalsAndParametersToolTip" xml:space="preserve">
-    <value>Nội bộ và các tham số</value>
+    <value>Locals and parameters</value>
   </data>
   <data name="LocalsWindow_MethodOrProperty_Returned" xml:space="preserve">
     <value>{0} đã trả về</value>
@@ -250,6 +250,6 @@
     <value>Chế độ xem kết quả yêu cầu {0} để được tham chiếu</value>
   </data>
   <data name="TypeDoesNotExistInAssembly" xml:space="preserve">
-    <value>Nhập '{0}' không tồn tại trong hội đồng '{1}'</value>
+    <value>Type '{0}' doesn't exist in assembly '{1}'</value>
   </data>
 </root>

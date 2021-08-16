@@ -136,13 +136,13 @@
     <value>Event được gắn '{0}'.</value>
   </data>
   <data name="Error_IComponentConnectorConnetCannotBeParsed" xml:space="preserve">
-    <value>Lớp '{0}' có IComponentConnector.Kết nối method, nhưng không thể phân tích.</value>
+    <value>Lớp '{0}' có IComponentConnector.Kết nối Method, nhưng không thể phân tích.</value>
   </data>
   <data name="Error_UnknownConnectionId" xml:space="preserve">
     <value>ID kết nối không xác định: {0}</value>
   </data>
   <data name="Msg_GlobalNamespace" xml:space="preserve">
-    <value>'{0}' là tiền tố cho namespace toàn cục.</value>
+    <value>'{0}' là tiền tố cho Namespace toàn cục.</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
     <value>Trình dịch ngược BAML</value>

@@ -124,7 +124,7 @@
     <value>_Assembly</value>
   </data>
   <data name="DbgAsm_BreakAt" xml:space="preserve">
-    <value>_Break ở</value>
+    <value>_Break at</value>
   </data>
   <data name="DbgAsm_ConnectionPort" xml:space="preserve">
     <value>_Cổng</value>
@@ -223,7 +223,7 @@
     <value>The runtime doesn't support setting a new statement</value>
   </data>
   <data name="AttachToProcessXCommand" xml:space="preserve">
-    <value>Attach to Process ({0})...</value>
+    <value>Attach vào Process ({0})...</value>
   </data>
   <data name="UnityEditor" xml:space="preserve">
     <value>Editor</value>

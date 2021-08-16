@@ -244,7 +244,7 @@
     <value>Clear the script editor</value>
   </data>
   <data name="HelpHelpDescription" xml:space="preserve">
-    <value>Hiển thị sự trợ giúp</value>
+    <value>Hiển thị trợ giúp</value>
   </data>
   <data name="HelpResetDescription" xml:space="preserve">
     <value>Đặt lại môi trường thực thi</value>

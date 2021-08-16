@@ -154,16 +154,16 @@
     <value>Không thể tạo file ({0}), mô tả = {1}, Thông báo Exeption: {2}</value>
   </data>
   <data name="ToolTip_Constant" xml:space="preserve">
-    <value>hằng số</value>
+    <value>constant</value>
   </data>
   <data name="ToolTip_Field" xml:space="preserve">
-    <value>trường</value>
+    <value>field</value>
   </data>
   <data name="ToolTip_GenericParameterInTypeOrMethod" xml:space="preserve">
-    <value>trong</value>
+    <value>in</value>
   </data>
   <data name="ToolTip_Local" xml:space="preserve">
-    <value>biến cục bộ</value>
+    <value>local variable</value>
   </data>
   <data name="ToolTip_NMethodOverloads" xml:space="preserve">
     <value>{0} overloads</value>
@@ -172,7 +172,7 @@
     <value>1 overload</value>
   </data>
   <data name="ToolTip_Parameter" xml:space="preserve">
-    <value>tham số</value>
+    <value>parameter</value>
   </data>
   <data name="Decompile_Namespace_Types" xml:space="preserve">
     <value>Kiểu:</value>
@@ -238,7 +238,7 @@
     <value>awaitable</value>
   </data>
   <data name="CSharp_Deprecated_Member" xml:space="preserve">
-    <value>ngừng hỗ trợ</value>
+    <value>deprecated</value>
   </data>
   <data name="CSharp_Extension_Method" xml:space="preserve">
     <value>phần mở rộng</value>
@@ -247,7 +247,7 @@
     <value>Awaitable</value>
   </data>
   <data name="VisualBasic_Deprecated_Member" xml:space="preserve">
-    <value>Ngừng hỗ trợ</value>
+    <value>Deprecated</value>
   </data>
   <data name="VisualBasic_Extension_Method" xml:space="preserve">
     <value>Tiện ích mở rộng</value>

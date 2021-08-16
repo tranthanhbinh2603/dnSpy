@@ -121,7 +121,7 @@
     <value>A_rguments</value>
   </data>
   <data name="DbgAsm_BreakAt" xml:space="preserve">
-    <value>_Break ở</value>
+    <value>_Break at</value>
   </data>
   <data name="DbgAsm_Host" xml:space="preserve">
     <value>_Host</value>
@@ -130,7 +130,7 @@
     <value>Host Ar_guments</value>
   </data>
   <data name="DbgAsm_WorkingDir" xml:space="preserve">
-    <value>_Working Directory</value>
+    <value>_Thư mục làm việc</value>
   </data>
   <data name="DbgBreak_CreateProcessEvent" xml:space="preserve">
     <value>CreateProcess</value>
@@ -257,7 +257,7 @@ Lỗi: {0}</value>
     <value>Không thể đặt câu lệnh tiếp theo.</value>
   </data>
   <data name="Error_CouldNotBreakProcess" xml:space="preserve">
-    <value>Không thể phá vỡ quá trình. Error: 0x{0:X8}</value>
+    <value>Không thể phá vỡ quá trình. Lỗi: 0x{0:X8}</value>
   </data>
   <data name="InternalDebuggerError" xml:space="preserve">
     <value>Lỗi trình gỡ lỗi nội bộ</value>

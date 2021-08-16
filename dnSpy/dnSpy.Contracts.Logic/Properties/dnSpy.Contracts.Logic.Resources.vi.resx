@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="InvalidBoolean" xml:space="preserve">
-    <value>Giá trị phải là giá trị boolean (True or False)</value>
+    <value>Giá trị phải là giá trị Boolean (True or False)</value>
   </data>
   <data name="InvalidChar" xml:space="preserve">
     <value>Một ký tự phải được đặt trong dấu ngoặc đơn (')</value>

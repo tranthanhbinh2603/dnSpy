@@ -169,19 +169,19 @@
     <value>{0} bytes, Kiểu = {1}</value>
   </data>
   <data name="ResourceTypeCantBeChanged" xml:space="preserve">
-    <value>Kiểu resource không thể thay đổi</value>
+    <value>Kiểu Resource không thể thay đổi</value>
   </data>
   <data name="SaveResource" xml:space="preserve">
-    <value>Lưu resource</value>
+    <value>Lưu Resource</value>
   </data>
   <data name="SaveResources" xml:space="preserve">
-    <value>Lưu các resource</value>
+    <value>Lưu các Resource</value>
   </data>
   <data name="Search_SearchColumnHelpText" xml:space="preserve">
     <value>Tìm cột: {0}</value>
   </data>
   <data name="Search_SearchColumnInvertMatchHelpText" xml:space="preserve">
-    <value>Sử dụng '{0}' để đảo ngược giống nhau, ví dụ. {1}</value>
+    <value>Sử dụng '{0}' để đảo ngược giống nhau, ví dụ {1}</value>
   </data>
   <data name="ValueMustBeType" xml:space="preserve">
     <value>Giá trị phải là kiểu {0}.

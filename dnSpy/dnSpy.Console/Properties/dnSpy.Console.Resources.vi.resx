@@ -226,10 +226,10 @@
     <value>thiết lập ngôn ngữ, mặc định là C#. Các GUID có thể được sử dụng.</value>
   </data>
   <data name="CmdLineDescription_MDToken" xml:space="preserve">
-    <value>dịch ngược member với Metadata token N thành Stdout</value>
+    <value>dịch ngược Member với Metadata token N thành Stdout</value>
   </data>
   <data name="CmdLineDescription_NoBAML" xml:space="preserve">
-    <value>không dịch ngược Baml thành Xaml</value>
+    <value>không dịch ngược BAML thành XAML</value>
   </data>
   <data name="CmdLineDescription_NoGAC" xml:space="preserve">
     <value>không dùng GAC để tìm kiếm các Assembly. Hữu ích với --no-stdlib</value>
@@ -244,7 +244,7 @@
     <value>không tạo tệp .sln</value>
   </data>
   <data name="CmdLineDescription_NoStdLib" xml:space="preserve">
-    <value>các dự án không reference tới mscorlib</value>
+    <value>các dự án không Reference tới mscorlib</value>
   </data>
   <data name="CmdLineDescription_NumberOfThreads" xml:space="preserve">
     <value>số tiến trình làm việc. Mặc định sử dụng một tiến trình đối với một nhân CPU</value>
@@ -253,7 +253,7 @@
     <value>thư mục xuất ra</value>
   </data>
   <data name="CmdLineDescription_ProjectGUID" xml:space="preserve">
-    <value>guid dự án</value>
+    <value>GUID dự án</value>
   </data>
   <data name="CmdLineDescription_RecursiveSearch" xml:space="preserve">
     <value>tìm đệ quy các tệp .NET để dịch ngược</value>

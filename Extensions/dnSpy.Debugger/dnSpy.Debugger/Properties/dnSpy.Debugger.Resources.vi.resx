@@ -431,7 +431,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Mở thư mục chứa</value>
   </data>
   <data name="OpenModuleFromMemoryCommand" xml:space="preserve">
-    <value>Mở module từ bộ nhớ</value>
+    <value>Mở Module từ bộ nhớ</value>
   </data>
   <data name="RemoveExceptionCommand" xml:space="preserve">
     <value>_Loại bỏ</value>
