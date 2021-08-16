@@ -704,7 +704,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Cài đặt ngoại lệ</value>
   </data>
   <data name="Window_Locals" xml:space="preserve">
-    <value>Biến Local</value>
+    <value>Local</value>
   </data>
   <data name="Window_Memory_10_MenuItem" xml:space="preserve">
     <value>Bộ nhớ 1_0</value>
@@ -1391,7 +1391,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Hiển thị các biến trình biên dịch tạo ra</value>
   </data>
   <data name="DbgSettings_SortLocals" xml:space="preserve">
-    <value>Sắp xếp các biến local</value>
+    <value>Sắp xếp các Locals</value>
   </data>
   <data name="DbgSettings_SortParameters" xml:space="preserve">
     <value>Sắp xếp các tham số</value>

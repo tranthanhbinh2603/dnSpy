@@ -26,7 +26,7 @@ cd dnSpy
 ```
 
 If you want to rebuild dnSpy, install .NET 5.0 at https://dotnet.microsoft.com/download/dotnet/5.0.
-First you need to build Solution, then REBUILD dnSpy (x86 & x64).
+First you need to build Solution (Realease/AnyCPU), then REBUILD dnSpy (x86 & x64).
 
 To debug Unity games, you need this repo too: https://github.com/dnSpy/dnSpy-Unity-mono (or get the binaries from https://github.com/dnSpy/dnSpy/releases/unity)
 
