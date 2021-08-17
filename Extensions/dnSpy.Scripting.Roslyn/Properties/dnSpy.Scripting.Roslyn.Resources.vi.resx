@@ -124,7 +124,7 @@
     <value>+ additional {0} errors</value>
   </data>
   <data name="CopyCommand" xml:space="preserve">
-    <value>Sao chép</value>
+    <value>Cop_y</value>
   </data>
   <data name="CutCommand" xml:space="preserve">
     <value>Cu_t</value>
@@ -178,13 +178,13 @@
     <value>Đang tải ngữ cảnh từ '{0}'.</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
-    <value>Dán</value>
+    <value>_Dán</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
     <value>Scripting</value>
   </data>
   <data name="ResettingExecutionEngine" xml:space="preserve">
-    <value>Đặt lại công cụ thực thi.</value>
+    <value>Reset Execution Engine.</value>
   </data>
   <data name="Script_ToolTip_ClearScreen" xml:space="preserve">
     <value>Clear Screen</value>

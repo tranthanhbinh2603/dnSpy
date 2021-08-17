@@ -200,6 +200,7 @@
   </data>
   <data name="Error_CouldNotStartDebugger2" xml:space="preserve">
     <value>Không thể khởi động trình gỡ lỗi.
+
 Lỗi: {0}</value>
   </data>
   <data name="Error_CouldNotAttachToProcess" xml:space="preserve">

@@ -142,13 +142,13 @@
     <value>Dịch ngược BAML</value>
   </data>
   <data name="MSBuild_FailedToCreateProjectFile" xml:space="preserve">
-    <value>Không thể tạo project {0}, Bị lỗi Exception: {1}</value>
+    <value>Không thể tạo project {0}, Exception message: {1}</value>
   </data>
   <data name="MSBuild_FailedToCreateSolutionFile" xml:space="preserve">
-    <value>Không thể tạo Solution {0}, Bị lỗi Exception: {1}</value>
+    <value>Không thể tạo Solution {0}, Exception message: {1}</value>
   </data>
   <data name="MSBuild_FileCreationFailed2" xml:space="preserve">
-    <value>Thất bại, Thông tin = {0}, Thông báo Exeption: {1}</value>
+    <value>Thất bại, Thông tin = {0}, Exeption message: {1}</value>
   </data>
   <data name="MSBuild_FileCreationFailed3" xml:space="preserve">
     <value>Không thể tạo file ({0}), mô tả = {1}, Thông báo Exeption: {2}</value>
@@ -175,7 +175,7 @@
     <value>parameter</value>
   </data>
   <data name="Decompile_Namespace_Types" xml:space="preserve">
-    <value>Kiểu:</value>
+    <value>Types:</value>
   </data>
   <data name="Decompile_AnyCPU32BitPreferred" xml:space="preserve">
     <value>AnyCPU (Ưu tiên 32 bit)</value>
@@ -184,25 +184,25 @@
     <value>AnyCPU (Ưu tiên 64 bit)</value>
   </data>
   <data name="Decompile_Architecture" xml:space="preserve">
-    <value>Kiến trúc:</value>
+    <value>Architecture:</value>
   </data>
   <data name="Decompile_EntryPoint" xml:space="preserve">
     <value>Entry Point:</value>
   </data>
   <data name="Decompile_GlobalType" xml:space="preserve">
-    <value>Kiểu toàn cục:</value>
+    <value>Global type:</value>
   </data>
   <data name="Decompile_NativeEntryPoint" xml:space="preserve">
-    <value>Entry Point (Native): 0x{0:X8}</value>
+    <value>Native Entry Point: 0x{0:X8}</value>
   </data>
   <data name="Decompile_Runtime" xml:space="preserve">
-    <value>Thời gian chạy:</value>
+    <value>Runtime:</value>
   </data>
   <data name="Decompile_ThisAssemblyContainsUnmanagedCode" xml:space="preserve">
     <value>Assembly này chứa các unmanaged code.</value>
   </data>
   <data name="Decompile_Timestamp" xml:space="preserve">
-    <value>Mốc thời gian:</value>
+    <value>Timestamp:</value>
   </data>
   <data name="MSBuild_CreateResource" xml:space="preserve">
     <value>Tạo Resource {0}</value>
@@ -211,25 +211,25 @@
     <value>Tạo resource cho màn hình khởi động (splash screen) {0}</value>
   </data>
   <data name="MSBuild_CreateWinFormsDesignerFile" xml:space="preserve">
-    <value>Tạo file WinForms.designer</value>
+    <value>Tạo WinForms Designer file</value>
   </data>
   <data name="MSBuild_CreateWinFormsFile" xml:space="preserve">
-    <value>Tạo file WinForms</value>
+    <value>Tạo WinForms file</value>
   </data>
   <data name="MSBuild_DecompileType" xml:space="preserve">
-    <value>Kiểu dịch ngược {0}</value>
+    <value>Decompile type {0}</value>
   </data>
   <data name="MSBuild_CreateSettingsFile" xml:space="preserve">
     <value>Tạo {0}</value>
   </data>
   <data name="MSBuild_CreateSettingsDesignerTypeFile" xml:space="preserve">
-    <value>Tạo file Settings.designer</value>
+    <value>Tạo Settings Designer file</value>
   </data>
   <data name="MSBuild_CreateSettingsTypeFile" xml:space="preserve">
-    <value>Tạo file settings</value>
+    <value>Tạo Settings file</value>
   </data>
   <data name="MSBuild_CreateResXFile" xml:space="preserve">
-    <value>Tạo file Resx</value>
+    <value>Tạo ResX file</value>
   </data>
   <data name="UnknownValue" xml:space="preserve">
     <value>&lt;Không xác định&gt;</value>

@@ -136,58 +136,58 @@
     <value>Dịch ngược các Methods async (async / await)</value>
   </data>
   <data name="DecompilerSettings_DecompileAutoEvents" xml:space="preserve">
-    <value>Dịch ngược các sự kiện tự động</value>
+    <value>Dịch ngược các Events tự động</value>
   </data>
   <data name="DecompilerSettings_DecompileAutoProps" xml:space="preserve">
-    <value>Dịch ngược các thuộc tính tự động</value>
+    <value>Dịch ngược các Properties tự động</value>
   </data>
   <data name="DecompilerSettings_DecompileEnumerators" xml:space="preserve">
-    <value>Dịch ngược các điều tra viên (trả về yield)</value>
+    <value>Dịch ngược các Enumerators (trả về yield)</value>
   </data>
   <data name="DecompilerSettings_DecompileExprTrees" xml:space="preserve">
-    <value>Dịch ngược cây biểu thức</value>
+    <value>Dịch ngược Expression trees</value>
   </data>
   <data name="DecompilerSettings_DecompileForeachStatements" xml:space="preserve">
-    <value>Dịch ngược các câu lệnh foreach</value>
+    <value>Dịch ngược foreach statements</value>
   </data>
   <data name="DecompilerSettings_DecompileLockStatements" xml:space="preserve">
-    <value>Biên dịch các câu lệnh khóa</value>
+    <value>Biên dịch locks statements</value>
   </data>
   <data name="DecompilerSettings_DecompileQueryExpr" xml:space="preserve">
-    <value>Dịch ngược biểu thức truy vấn</value>
+    <value>Dịch ngược query expressions</value>
   </data>
   <data name="DecompilerSettings_DecompileSwitchOnString" xml:space="preserve">
-    <value>Công cụ dịch ngược trên chuỗi</value>
+    <value>Dịch ngược switch on string</value>
   </data>
   <data name="DecompilerSettings_DecompileUsingStatements" xml:space="preserve">
-    <value>Biên dịch bằng cách sử dụng các câu lệnh</value>
+    <value>Dịch ngược sử dụng statements</value>
   </data>
   <data name="DecompilerSettings_FullyQualifyAllTypes" xml:space="preserve">
-    <value>Thêm không gian tên cho tất cả các loại</value>
+    <value>Thêm namespaces cho tất cả các types</value>
   </data>
   <data name="DecompilerSettings_FullyQualifyAmbiguousTypeNames" xml:space="preserve">
-    <value>Thêm một không gian tên cho các loại có cùng tên</value>
+    <value>Thêm một namespace cho các loại có cùng tên</value>
   </data>
   <data name="DecompilerSettings_HexadecimalNumbers" xml:space="preserve">
-    <value>Số thập lục phân</value>
+    <value>Hexadecimal numbers</value>
   </data>
   <data name="DecompilerSettings_IntroduceIncrementAndDecrement" xml:space="preserve">
-    <value>Sử dụng các toán tử tăng và giảm</value>
+    <value>Use increment and decrement operators</value>
   </data>
   <data name="DecompilerSettings_MakeAssignmentExpressions" xml:space="preserve">
-    <value>Sử dụng các biểu thức gán như in while ((Count = Do()) ! = 0);</value>
+    <value>Use assignment expressions such as in while ((count = Do()) ! = 0) ;</value>
   </data>
   <data name="DecompilerSettings_MaxArrayElements" xml:space="preserve">
-    <value>Số phần tử mảng tối đa để hiển thị</value>
+    <value>Max number of array elements to show</value>
   </data>
   <data name="DecompilerSettings_MaxStringLength" xml:space="preserve">
-    <value>Độ dài chuỗi tối đa</value>
+    <value>Độ dài string tối đa</value>
   </data>
   <data name="DecompilerSettings_MemberAddPrivateModifier" xml:space="preserve">
-    <value>Thêm công cụ sửa đổi 'riêng tư' để nhập thành viên</value>
+    <value>Add 'private' modifier to type members</value>
   </data>
   <data name="DecompilerSettings_ObjectOrCollectionInitializers" xml:space="preserve">
-    <value>Biên dịch đối tượng hoặc bộ khởi tạo bộ sưu tập</value>
+    <value>Decompile object or collection initializers</value>
   </data>
   <data name="DecompilerSettings_OneCustomAttributePerLine" xml:space="preserve">
     <value>Hiển thị một thuộc tính tùy chỉnh trên mỗi dòng</value>
@@ -196,22 +196,22 @@
     <value>Xóa các hàm tạo mặc định trống</value>
   </data>
   <data name="DecompilerSettings_RemoveNewDelegateClass" xml:space="preserve">
-    <value>Thay thế 'lớp đại biểu mới (xxx)' bằng 'xxx'</value>
+    <value>Thay thế 'new delegate-class(xxx)' bằng 'xxx'</value>
   </data>
   <data name="DecompilerSettings_ShowCompilerGeneratedTypes" xml:space="preserve">
-    <value>Hiển thị các kiểu và phương thức trình biên dịch ẩn</value>
+    <value>Show hidden compiler generated types and methods</value>
   </data>
   <data name="DecompilerSettings_ShowILComments" xml:space="preserve">
-    <value>Hiển thị ghi chú opcode IL</value>
+    <value>Hiển thị ghi chú IL Opcode</value>
   </data>
   <data name="DecompilerSettings_ShowILInstrBytes" xml:space="preserve">
-    <value>Hiển thị byte lệnh IL</value>
+    <value>Show IL Instruction bytes</value>
   </data>
   <data name="DecompilerSettings_ShowPdbInfo" xml:space="preserve">
     <value>Hiển thị số dòng và tên tệp nếu có sẵn</value>
   </data>
   <data name="DecompilerSettings_ShowTokensRvasOffsets" xml:space="preserve">
-    <value>Hiển thị mã thông báo, RVA và giảm giá tệp</value>
+    <value>Hiển thị tokens, RVA và file offsets</value>
   </data>
   <data name="DecompilerSettings_ShowXMLDocComments" xml:space="preserve">
     <value>Hiển thị tài liệu XML bằng mã dịch ngược</value>
@@ -220,18 +220,18 @@
     <value>Sắp xếp các thuộc tính tùy chỉnh</value>
   </data>
   <data name="DecompilerSettings_SortMethods" xml:space="preserve">
-    <value>Sắp xếp phương thức, trường, thuộc tính, sự kiện và loại</value>
+    <value>Sắp xếp Methods, Fields, Properties, Events và Types</value>
   </data>
   <data name="DecompilerSettings_SortSystemFirst" xml:space="preserve">
-    <value>Đặt chỉ thị 'Hệ thống' trước khi sắp xếp bằng</value>
+    <value>Place 'System' directives first when sorting usings</value>
   </data>
   <data name="DecompilerSettings_TypeAddInternalModifier" xml:space="preserve">
-    <value>Thêm công cụ sửa đổi 'nội bộ' vào các loại</value>
+    <value>Add 'internal' modifier to types</value>
   </data>
   <data name="DecompilerSettings_UseLocalNameFromSyms" xml:space="preserve">
     <value>Sử dụng tên biến từ các ký hiệu gỡ lỗi, nếu có sẵn</value>
   </data>
   <data name="DecompilerSettings_UseSourceCodeOrder" xml:space="preserve">
-    <value>Sắp xếp các thành viên theo thứ tự mã nguồn</value>
+    <value>Sắp xếp các Members theo thứ tự mã nguồn</value>
   </data>
 </root>

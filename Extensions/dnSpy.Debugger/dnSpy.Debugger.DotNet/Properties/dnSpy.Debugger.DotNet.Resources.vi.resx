@@ -127,7 +127,7 @@
     <value>Add Method Breakpoint</value>
   </data>
   <data name="BreakWhenExceptionThrownCommand" xml:space="preserve">
-    <value>Dừng khi xảy ra ngoại lệ</value>
+    <value>Break When Throw</value>
   </data>
   <data name="Button_Cancel" xml:space="preserve">
     <value>_Hủy bỏ</value>

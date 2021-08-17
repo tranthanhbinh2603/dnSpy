@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddBreakpointCommand" xml:space="preserve">
-    <value>Đặt Bre_akpoint</value>
+    <value>_Đặt Breakpoint</value>
   </data>
   <data name="AddExceptionCommand" xml:space="preserve">
     <value>Thêm E_xception</value>
@@ -127,7 +127,7 @@
     <value>&lt;không khả dụng&gt;</value>
   </data>
   <data name="AppMenu_Debug" xml:space="preserve">
-    <value>Gỡ lỗi (_Debug)</value>
+    <value>_Debug</value>
   </data>
   <data name="AppTitle_Debugging" xml:space="preserve">
     <value>Đang gỡ lỗi</value>
@@ -142,13 +142,13 @@
     <value>Attach vào Process</value>
   </data>
   <data name="Attach_UseDnSpy32" xml:space="preserve">
-    <value>Sử dụng dnSpy 32-bit để Attach 32-bit processes</value>
-  </data>
-  <data name="Attach_UseDnSpy64" xml:space="preserve">
     <value>Sử dụng dnSpy 64-bit để Attach 64-bit processes</value>
   </data>
+  <data name="Attach_UseDnSpy64" xml:space="preserve">
+    <value>Sử dụng dnSpy 32-bit để Attach 32-bit processes</value>
+  </data>
   <data name="BreakCommand" xml:space="preserve">
-    <value>Break All</value>
+    <value>Brea_k All</value>
   </data>
   <data name="BreakpointsCommand" xml:space="preserve">
     <value>_Breakpoints</value>
@@ -157,16 +157,16 @@
     <value>_Attach</value>
   </data>
   <data name="Button_Cancel" xml:space="preserve">
-    <value>Hủy</value>
+    <value>_Hủy</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
     <value>_OK</value>
   </data>
   <data name="Button_Refresh" xml:space="preserve">
-    <value>Làm mới</value>
+    <value>_Làm mới</value>
   </data>
   <data name="CallStackCommand" xml:space="preserve">
-    <value>Call Stack</value>
+    <value>_Call Stack</value>
   </data>
   <data name="CallStack_MaxFramesExceeded" xml:space="preserve">
     <value>Đã dùng hết số lượng Stack frame tối đa mà dnSpy hỗ trợ.</value>
@@ -199,10 +199,10 @@
     <value>Đường dẫn</value>
   </data>
   <data name="Column_Process" xml:space="preserve">
-    <value>Tiến trình</value>
+    <value>Process</value>
   </data>
   <data name="Column_ProcessArchitecture" xml:space="preserve">
-    <value>Kiến trúc</value>
+    <value>Architecture</value>
   </data>
   <data name="Column_ProcessFilename" xml:space="preserve">
     <value>Tên file</value>
@@ -220,7 +220,7 @@
     <value>Affinity Mask</value>
   </data>
   <data name="Column_ThreadCategory" xml:space="preserve">
-    <value>Phân loại</value>
+    <value>Category</value>
   </data>
   <data name="Column_ThreadID" xml:space="preserve">
     <value>ID</value>
@@ -238,25 +238,25 @@
     <value>Trạng thái</value>
   </data>
   <data name="Column_ThreadSuspendedCount" xml:space="preserve">
-    <value>Đếm</value>
+    <value>Suspended Count</value>
   </data>
   <data name="Column_Timestamp" xml:space="preserve">
-    <value>Mốc thời gian</value>
+    <value>Timestamp</value>
   </data>
   <data name="Column_Type" xml:space="preserve">
-    <value>Kiểu</value>
+    <value>Type</value>
   </data>
   <data name="Column_Value" xml:space="preserve">
-    <value>Giá trị</value>
+    <value>Value</value>
   </data>
   <data name="Column_Version" xml:space="preserve">
     <value>Phiên bản </value>
   </data>
   <data name="ContinueDebuggingCommand" xml:space="preserve">
-    <value>Tiếp tục (_C)</value>
+    <value>_Tiếp tục</value>
   </data>
   <data name="CopyCommand" xml:space="preserve">
-    <value>Sao chép (_Y)</value>
+    <value>Cop_y</value>
   </data>
   <data name="DbgAsm_Title" xml:space="preserve">
     <value>Trình gỡ lỗi</value>
@@ -310,19 +310,21 @@
     <value>Detach A_ll</value>
   </data>
   <data name="DisableAllBreakpointsCommand" xml:space="preserve">
-    <value>Tắt tất cả Breakpoint</value>
+    <value>Tắt tất cả Breakpoi_nts</value>
   </data>
   <data name="EnableAllBreakpointsCommand" xml:space="preserve">
-    <value>Bật tất cả Breakpoint</value>
+    <value>Bật tất cả Breakpoi_nts</value>
   </data>
   <data name="EnableBreakpointCommand" xml:space="preserve">
-    <value>Breakpoint đã bị vô hiệu hóa</value>
+    <value>_Enable Breakpoint</value>
   </data>
   <data name="EnableBreakpointCommand2" xml:space="preserve">
-    <value>Bật/Tắt Breakpoint</value>
+    <value>Enab_le Breakpoint</value>
   </data>
   <data name="ErrorOccurredX" xml:space="preserve">
-    <value>Đã xảy ra lỗi</value>
+    <value>Đã xảy ra lỗi:
+
+{0}</value>
   </data>
   <data name="Error_CantEvalUnlessDebuggerStopped" xml:space="preserve">
     <value>Không thể đánh giá trừ khi trình gỡ lỗi bị dừng</value>
@@ -332,7 +334,7 @@
   </data>
   <data name="Error_StartWithoutDebuggingCouldNotStart" xml:space="preserve">
     <value>Không thể bắt đầu '{0}'
-ERROR: {1}</value>
+LỖI: {1}</value>
   </data>
   <data name="ExceptionSettingsCommand" xml:space="preserve">
     <value>E_xception Settings</value>
@@ -390,7 +392,7 @@ ERROR: {1}</value>
   </data>
   <data name="LocalsSave_Error_CouldNotSaveDataToFilename" xml:space="preserve">
     <value>Lỗi khi lưu dữ liệu vào '{0}'
-ERROR: {1}</value>
+LỖI: {1}</value>
   </data>
   <data name="Locals_Ask_TooManyItems" xml:space="preserve">
     <value>Mục này chứa nhiều hơn {0} các mục con và sẽ bị giới hạn hiển thị số mục đó khi được mở rộng.
@@ -410,7 +412,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Kết nối đã hết hạn</value>
   </data>
   <data name="MemoryWindowCommand" xml:space="preserve">
-    <value>Memory</value>
+    <value>_Memory</value>
   </data>
   <data name="ModuleCopyFilenameCommand" xml:space="preserve">
     <value>Copy tên file</value>
@@ -422,13 +424,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Lưu Module</value>
   </data>
   <data name="ModulesCommand" xml:space="preserve">
-    <value>Modules</value>
+    <value>M_odules</value>
   </data>
   <data name="Module_NoAddress" xml:space="preserve">
     <value>&lt;không có địa chỉ&gt;</value>
   </data>
   <data name="OpenContainingFolderCommand" xml:space="preserve">
-    <value>Mở thư mục chứa</value>
+    <value>_Mở thư mục chứa</value>
   </data>
   <data name="OpenModuleFromMemoryCommand" xml:space="preserve">
     <value>Mở Module từ bộ nhớ</value>
@@ -440,13 +442,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Đổi tên</value>
   </data>
   <data name="RestartCommand" xml:space="preserve">
-    <value>Restart</value>
+    <value>_Restart</value>
   </data>
   <data name="RestoreDefaultExceptionSettingsCommand" xml:space="preserve">
     <value>Khôi phục mặc định</value>
   </data>
   <data name="RunToCursorCommand" xml:space="preserve">
-    <value>Run To Cursor</value>
+    <value>R_un To Cursor</value>
   </data>
   <data name="SaveModuleCommand" xml:space="preserve">
     <value>Lưu Module...</value>
@@ -455,10 +457,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Lưu {0} Modules...</value>
   </data>
   <data name="SelectAllCommand" xml:space="preserve">
-    <value>Chọn tất cả</value>
+    <value>Chọn _tất cả</value>
   </data>
   <data name="SetNextStatementCommand" xml:space="preserve">
-    <value>Đặt câu lệnh tiếp theo</value>
+    <value>Set Ne_xt Statement</value>
   </data>
   <data name="ShortCutAltAsterisk" xml:space="preserve">
     <value>Alt+Num *</value>
@@ -524,7 +526,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Ctrl+{0}</value>
   </data>
   <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Del</value>
   </data>
   <data name="ShortCutKeyEnter" xml:space="preserve">
     <value>Enter</value>
@@ -566,31 +568,31 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Hiển thị Namespace</value>
   </data>
   <data name="ShowNextStatementCommand" xml:space="preserve">
-    <value>Hiển thị dòng lệnh kế tiếp</value>
+    <value>S_how Next Statement</value>
   </data>
   <data name="ShowDeclaringTypesCommand" xml:space="preserve">
-    <value>Hiển thị các kiểu định nghĩa</value>
+    <value>Hiển thị các Declaring Types</value>
   </data>
   <data name="ShowParameterNamesCommand" xml:space="preserve">
-    <value>Hiển thị tên các tham số</value>
+    <value>Hiển thị tên các _Paraments</value>
   </data>
   <data name="ShowParameterTypesCommand" xml:space="preserve">
-    <value>Hiển thị kiểu các tham số</value>
+    <value>Hiển thị _kiểu các Paraments</value>
   </data>
   <data name="ShowParameterValuesCommand" xml:space="preserve">
-    <value>Hiển thị giá trị các tham số</value>
+    <value>Hiển thị _giá trị các Paraments</value>
   </data>
   <data name="ShowReturnTypesCommand" xml:space="preserve">
-    <value>Hiển thị kiểu trả về</value>
+    <value>Hiển thị Types trả về</value>
   </data>
   <data name="ShowTokensCommand" xml:space="preserve">
     <value>Hiện Token</value>
   </data>
   <data name="ShowIntrinsicTypeKeywordsCommand" xml:space="preserve">
-    <value>Hiển thị từ khóa Intrinsic</value>
+    <value>Hiển thị Intrinsic Type Keywords</value>
   </data>
   <data name="StartWithoutDebuggingCommand" xml:space="preserve">
-    <value>Start Without Debugging</value>
+    <value>Start With_out Debugging</value>
   </data>
   <data name="StatusBar_Ready" xml:space="preserve">
     <value>Sẵn sàng</value>
@@ -599,28 +601,28 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Đang chạy...</value>
   </data>
   <data name="StepIntoCommand" xml:space="preserve">
-    <value>Step Into</value>
+    <value>Step _Into</value>
   </data>
   <data name="StepOutCommand" xml:space="preserve">
-    <value>Step Out</value>
+    <value>Step Ou_t</value>
   </data>
   <data name="StepOverCommand" xml:space="preserve">
-    <value>Step Over</value>
+    <value>Step _Over</value>
   </data>
   <data name="StopDebuggingCommand" xml:space="preserve">
-    <value>Dừng gỡ lỗi</value>
+    <value>Stop D_ebugging</value>
   </data>
   <data name="SwitchToFrameCommand" xml:space="preserve">
-    <value>Switch To Frame</value>
+    <value>_Switch To Frame</value>
   </data>
   <data name="SwitchToThreadCommand" xml:space="preserve">
-    <value>Switch To Thread</value>
+    <value>_Switch To Thread</value>
   </data>
   <data name="ThawThreadCommand" xml:space="preserve">
-    <value>Thaw</value>
+    <value>_Thaw</value>
   </data>
   <data name="ThreadsCommand" xml:space="preserve">
-    <value>Threads</value>
+    <value>T_hreads</value>
   </data>
   <data name="ThreadType_Main" xml:space="preserve">
     <value>Main Thread</value>
@@ -659,7 +661,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Bình thường</value>
   </data>
   <data name="ToggleBreakpointCommand" xml:space="preserve">
-    <value>Toggle Breakpoint</value>
+    <value>To_ggle Breakpoint</value>
   </data>
   <data name="ToolBarBreakAllToolTip" xml:space="preserve">
     <value>Break All</value>
@@ -701,7 +703,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Call Stack</value>
   </data>
   <data name="Window_ExceptionSettings" xml:space="preserve">
-    <value>Cài đặt ngoại lệ</value>
+    <value>Exception Settings</value>
   </data>
   <data name="Window_Locals" xml:space="preserve">
     <value>Local</value>
@@ -749,25 +751,25 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Debug</value>
   </data>
   <data name="ShowExceptionMessages" xml:space="preserve">
-    <value>Các thông báo lỗi</value>
+    <value>_Các thông báo lỗi</value>
   </data>
   <data name="ShowModuleLoadMessages" xml:space="preserve">
-    <value>Module Load Messages</value>
+    <value>Module _Load Messages</value>
   </data>
   <data name="ShowModuleUnloadMessages" xml:space="preserve">
-    <value>Module Unload Messages</value>
+    <value>Module _Unload Messages</value>
   </data>
   <data name="ShowProcessExitMessages" xml:space="preserve">
-    <value>Thông báo kết thúc Process</value>
+    <value>_Thông báo kết thúc Process</value>
   </data>
   <data name="ShowProgramOutputMessages" xml:space="preserve">
-    <value>Output chương trình</value>
+    <value>_Output chương trình</value>
   </data>
   <data name="ShowStepFilteringMessages" xml:space="preserve">
-    <value>Step Filtering Messages</value>
+    <value>_Step Filtering Messages</value>
   </data>
   <data name="ShowThreadExitMessages" xml:space="preserve">
-    <value>Thread Exit Messages</value>
+    <value>_Thread Exit Messages</value>
   </data>
   <data name="ShowMDAMessages" xml:space="preserve">
     <value>MDA Messages</value>
@@ -788,7 +790,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Thread 0x{0:x} kết thúc với mã {1} (0x{1:x}).</value>
   </data>
   <data name="DebugLogLoadModule" xml:space="preserve">
-    <value>Đã đọc '{0}'.</value>
+    <value>Đã tải '{0}'.</value>
   </data>
   <data name="DebugLogMDA" xml:space="preserve">
     <value>Managed Debugging Assistant '{0}' đã phát hiện vấn đề trong '{1}'.</value>
@@ -809,22 +811,22 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Hex Editor (Memory Window)</value>
   </data>
   <data name="DbgAsm_DebugEngine" xml:space="preserve">
-    <value>Debug engine</value>
+    <value>_Debug engine</value>
   </data>
   <data name="DebugWindows" xml:space="preserve">
-    <value>Windows</value>
+    <value>_Windows</value>
   </data>
   <data name="OutputCommand" xml:space="preserve">
-    <value>Output</value>
+    <value>_Output</value>
   </data>
   <data name="ShortCutKeyCtrlAltW_DIGIT" xml:space="preserve">
     <value>Ctrl+Alt+W, {0}</value>
   </data>
   <data name="TerminateAllCommand" xml:space="preserve">
-    <value>Chấm dứt tất cả</value>
+    <value>Ter_minate All</value>
   </data>
   <data name="WatchCommand" xml:space="preserve">
-    <value>Xem</value>
+    <value>_Xem</value>
   </data>
   <data name="Window_Watch_10_MenuItem" xml:space="preserve">
     <value>Xem 1_0</value>
@@ -839,13 +841,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Xem {0}</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Tùy chọn...</value>
+    <value>_Tùy chọn...</value>
   </data>
   <data name="ShortCutKeyCtrlAltZ" xml:space="preserve">
     <value>Ctrl+Alt+Z</value>
   </data>
   <data name="ProcessesCommand" xml:space="preserve">
-    <value>Processes</value>
+    <value>_Processes</value>
   </data>
   <data name="Window_Processes" xml:space="preserve">
     <value>Processes</value>
@@ -881,13 +883,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Ctrl+F</value>
   </data>
   <data name="DetachProcessCommand" xml:space="preserve">
-    <value>Detach Process</value>
+    <value>_Detach Process</value>
   </data>
   <data name="DetachWhenDebuggingStoppedCommand" xml:space="preserve">
-    <value>Detach When Debugging Stopped</value>
+    <value>Detach _When Debugging Stopped</value>
   </data>
   <data name="TerminateProcessCommand" xml:space="preserve">
-    <value>Chấm dứt Process</value>
+    <value>Ter_minate Process</value>
   </data>
   <data name="ProcessCommand" xml:space="preserve">
     <value>Tiến trình</value>
@@ -905,19 +907,19 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Điều kiện</value>
   </data>
   <data name="Column_BreakWhenThrown" xml:space="preserve">
-    <value>Dừng khi xảy ra ngoại lệ</value>
+    <value>Break When Thrown</value>
   </data>
   <data name="Column_Category" xml:space="preserve">
-    <value>Phân loại</value>
+    <value>Category</value>
   </data>
   <data name="Exception_Conditions_And" xml:space="preserve">
     <value>Và</value>
   </data>
   <data name="Exception_Conditions_ModuleNameEquals" xml:space="preserve">
-    <value>Tên thư mục là</value>
+    <value>Module name equals</value>
   </data>
   <data name="Exception_Conditions_ModuleNameNotEquals" xml:space="preserve">
-    <value>Tên thư mục là</value>
+    <value>Module name not equals</value>
   </data>
   <data name="Exceptions_ResetSearchSettings_ToolTip" xml:space="preserve">
     <value>Reset toàn bộ cài đặt tìm kiếm của các Modules đang hiển thị</value>
@@ -926,16 +928,16 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tất cả</value>
   </data>
   <data name="EditConditionsCommand" xml:space="preserve">
-    <value>Sửa điều kiện</value>
+    <value>Chỉnh sửa Conditions...</value>
   </data>
   <data name="ExceptionsCommand" xml:space="preserve">
     <value>Exceptions</value>
   </data>
   <data name="FindCommand" xml:space="preserve">
-    <value>Tìm kiếm (_F)</value>
+    <value>_Tìm kiếm</value>
   </data>
   <data name="Exceptions_NoMatch" xml:space="preserve">
-    <value>Không có loại ngoại lệ nào phù hợp với bộ lọc tìm kiếm của bạn.</value>
+    <value>Không có loại Exceptions nào phù hợp với bộ lọc tìm kiếm của bạn.</value>
   </data>
   <data name="AddExceptionButton" xml:space="preserve">
     <value>Thêm</value>
@@ -1043,7 +1045,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Ctrl+Alt+V, A</value>
   </data>
   <data name="Breakpoints_ExportMatchingBreakpoints_ToolTip" xml:space="preserve">
-    <value>Xóa toàn bộ Breakpoints phù hợp điều kiện tìm kiếm</value>
+    <value>Xóa toàn bộ Breakpoints phù hợp cài đặt tìm kiếm</value>
   </data>
   <data name="Breakpoints_ImportBreakpoints_ToolTip" xml:space="preserve">
     <value>Nhập một tập lệnh từ một tập tin</value>
@@ -1052,7 +1054,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>_Export Selected...</value>
   </data>
   <data name="Breakpoints_NoMatch" xml:space="preserve">
-    <value>Không có Modules phù hợp với tiêu chuẩn tìm kiếm.</value>
+    <value>Không có Modules phù hợp với cài đặt tìm kiếm.</value>
   </data>
   <data name="Breakpoints_Search" xml:space="preserve">
     <value>Tìm kiếm</value>
@@ -1061,13 +1063,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tìm kiếm một Breakpoint</value>
   </data>
   <data name="Breakpoints_RemoveMatchingBreakpoints_ToolTip" xml:space="preserve">
-    <value>Xóa toàn bộ Breakpoints phù hợp điều kiện tìm kiếm</value>
+    <value>Xóa toàn bộ Breakpoints phù hợp cài đặt tìm kiếm</value>
   </data>
   <data name="Breakpoints_ResetSearchSettings_ToolTip" xml:space="preserve">
     <value>Reset toàn bộ cài đặt tìm kiếm của các Breakpoints đang hiển thị</value>
   </data>
   <data name="Breakpoints_ToggleMatchingBreakpoints_ToolTip" xml:space="preserve">
-    <value>Enable hoặc Disable toàn bộ Breakpoints phù hợp điều kiện tìm kiếm</value>
+    <value>Enable hoặc Disable toàn bộ Breakpoints phù hợp cài đặt tìm kiếm</value>
   </data>
   <data name="Modules_AllProcesses" xml:space="preserve">
     <value>Tất cả</value>
@@ -1145,7 +1147,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Alt+Enter</value>
   </data>
   <data name="SettingsCommand" xml:space="preserve">
-    <value>Cài đặt</value>
+    <value>_Cài đặt</value>
   </data>
   <data name="EditBreakpointSettings_Title" xml:space="preserve">
     <value>Breakpoint Settings</value>
@@ -1160,16 +1162,16 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Là bội số của</value>
   </data>
   <data name="EditBreakpointSettings_ConditionalExpression" xml:space="preserve">
-    <value>Biểu thức điều kiện</value>
+    <value>Conditional _Expression</value>
   </data>
   <data name="EditBreakpointSettings_Filter" xml:space="preserve">
-    <value>Bộ lọc</value>
+    <value>_Bộ lọc</value>
   </data>
   <data name="EditBreakpointSettings_HitCount" xml:space="preserve">
-    <value>Lượt nhấn</value>
+    <value>_Lượt nhấn</value>
   </data>
   <data name="EditBreakpointSettings_Trace" xml:space="preserve">
-    <value>Log Message</value>
+    <value>_Log Message</value>
   </data>
   <data name="GlyphToolTip_Actions" xml:space="preserve">
     <value>Hành động:</value>
@@ -1217,10 +1219,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tiếp tục thực hiện</value>
   </data>
   <data name="ExportCommand" xml:space="preserve">
-    <value>Xuất ra...</value>
+    <value>E_xport...</value>
   </data>
   <data name="SettingsCommand2" xml:space="preserve">
-    <value>Cài đặt...</value>
+    <value>_Cài đặt...</value>
   </data>
   <data name="StartDebuggingCommand" xml:space="preserve">
     <value>Bắt đầu gỡ lỗi</value>
@@ -1241,16 +1243,16 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Không thể tạo Breakpoint.</value>
   </data>
   <data name="Column_Labels" xml:space="preserve">
-    <value>Nhãn</value>
+    <value>Labels</value>
   </data>
   <data name="EditLabelsCommand" xml:space="preserve">
-    <value>Chỉnh sửa nhãn</value>
+    <value>Chỉnh sửa Labels</value>
   </data>
   <data name="Threads_FreezeThreads_ToolTip" xml:space="preserve">
     <value>Freeze Threads</value>
   </data>
   <data name="Threads_NoMatch" xml:space="preserve">
-    <value>Không có Modules phù hợp với tiêu chuẩn tìm kiếm.</value>
+    <value>Không có Modules phù hợp với cài đặt tìm kiếm.</value>
   </data>
   <data name="Threads_Process" xml:space="preserve">
     <value>Tiến trình</value>
@@ -1271,10 +1273,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tất cả</value>
   </data>
   <data name="EditLabelsMsgBoxLabel" xml:space="preserve">
-    <value>Nhãn</value>
+    <value>Labels</value>
   </data>
   <data name="EditLabelsTitle" xml:space="preserve">
-    <value>Chỉnh sửa nhãn</value>
+    <value>Chỉnh sửa Labels</value>
   </data>
   <data name="Breakpoint_HitCount_CurrentHitCountValue" xml:space="preserve">
     <value>(hiện có {0})</value>
@@ -1358,7 +1360,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>_Delete Watch</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
-    <value>Dán</value>
+    <value>_Dán</value>
   </data>
   <data name="ExpressionCausesSideEffectsNoEval" xml:space="preserve">
     <value>Biểu hiện này gây ra tác dụng phụ và sẽ không được đánh giá</value>
@@ -1451,10 +1453,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Bật hoặc tắt tất cả các ngoại lệ phù hợp với tìm kiếm hiện tại</value>
   </data>
   <data name="DisableBreakpointCommand2" xml:space="preserve">
-    <value>Bật/Tắt Breakpoint</value>
+    <value>_Disable Breakpoint</value>
   </data>
   <data name="Exceptions_Add_ToolTip" xml:space="preserve">
-    <value>Thêm một ngoại lệ vào danh sách</value>
+    <value>Thêm một Exceptions vào danh sách</value>
   </data>
   <data name="AskAppWindowClosingStopDebugging" xml:space="preserve">
     <value>Bạn muốn dừng gỡ lỗi?</value>
@@ -1463,13 +1465,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tập trung vào quy trình đã gỡ lỗi</value>
   </data>
   <data name="LoadAllModulesCommand" xml:space="preserve">
-    <value>Mở Modules</value>
+    <value>Mở tất cả Modules</value>
   </data>
   <data name="DbgSettings_HideDeprecatedError" xml:space="preserve">
-    <value>Ẩn các Members không dùng nữa trong cửa sổ biến</value>
+    <value>Ẩn các Members không dùng nữa trong cửa sổ Variables</value>
   </data>
   <data name="DbgSettings_ShowReturnValues" xml:space="preserve">
-    <value>Hiển thị kiểu trả về</value>
+    <value>Hiển thị Values trả về</value>
   </data>
   <data name="DbgSettings_RedirectGuiConsoleOutput" xml:space="preserve">
     <value>Chuyển hướng đầu ra bảng điều khiển của các ứng dụng GUI đến cửa sổ Đầu ra</value>

@@ -121,16 +121,16 @@
     <value>_Vấn đề</value>
   </data>
   <data name="About_LatestBuild" xml:space="preserve">
-    <value>Bản _build mới nhất</value>
+    <value>_Latest Release</value>
   </data>
   <data name="About_LatestRelease" xml:space="preserve">
     <value>_Latest Release</value>
   </data>
   <data name="About_Menu" xml:space="preserve">
-    <value>Về dnSpy</value>
+    <value>_Về dnSpy</value>
   </data>
   <data name="About_SourceCode" xml:space="preserve">
-    <value>Mã nguồn</value>
+    <value>_Mã nguồn</value>
   </data>
   <data name="About_TabTitle" xml:space="preserve">
     <value>Về dnSpy</value>
@@ -151,19 +151,19 @@
     <value>Base Type and Interfaces</value>
   </data>
   <data name="Button_Cancel" xml:space="preserve">
-    <value>Hủy</value>
+    <value>_Hủy</value>
   </data>
   <data name="Button_No" xml:space="preserve">
-    <value>Không</value>
+    <value>_Không</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
     <value>_OK</value>
   </data>
   <data name="Button_Save" xml:space="preserve">
-    <value>Lưu...</value>
+    <value>_Lưu...</value>
   </data>
   <data name="Button_Yes" xml:space="preserve">
-    <value>Có</value>
+    <value>_Có</value>
   </data>
   <data name="CantConvertInputToType" xml:space="preserve">
     <value>Không thể chuyển đổi input thành dạng đã chọn: {0}</value>
@@ -172,25 +172,25 @@
     <value>Đóng tất cả các nhóm Tab, trừ Tab đang mở</value>
   </data>
   <data name="CloseAllTabsButThisCommand" xml:space="preserve">
-    <value>Đóng tất cả, trừ khung đang mở</value>
+    <value>Đóng _tất cả, trừ khung đang mở</value>
   </data>
   <data name="CloseAllTabsCommand" xml:space="preserve">
-    <value>Đóng tất cả các Tab</value>
+    <value>Đóng _tất cả các Tab</value>
   </data>
   <data name="CloseTabCommand" xml:space="preserve">
-    <value>Đóng</value>
+    <value>_Đóng</value>
   </data>
   <data name="CloseTabGroupCommand" xml:space="preserve">
     <value>Đóng nhóm Tab</value>
   </data>
   <data name="CopyCommand" xml:space="preserve">
-    <value>Sao chép (_Y)</value>
+    <value>Cop_y</value>
   </data>
   <data name="CopyKey" xml:space="preserve">
     <value>Ctrl + C</value>
   </data>
   <data name="CopyMDTokenCommand" xml:space="preserve">
-    <value>Chép MD Token</value>
+    <value>_Copy MD Token</value>
   </data>
   <data name="CouldNotStartBrowser" xml:space="preserve">
     <value>Không thể mở trình duyệt</value>
@@ -220,31 +220,31 @@
     <value>Xảy ra ngoại lệ:</value>
   </data>
   <data name="ExitAppCommand" xml:space="preserve">
-    <value>Thoát</value>
+    <value>T_hoát</value>
   </data>
   <data name="ExitAppKey" xml:space="preserve">
     <value>Alt + F4</value>
   </data>
   <data name="ExplorerOpenWithDnSpy" xml:space="preserve">
-    <value>Mở bằng dnSpy</value>
+    <value>Mở với dnSpy</value>
   </data>
   <data name="FindCommand" xml:space="preserve">
-    <value>Tìm kiếm (_F)</value>
+    <value>_Tìm kiếm</value>
   </data>
   <data name="FindCommand2" xml:space="preserve">
     <value>Tìm kiếm</value>
   </data>
   <data name="FindKey" xml:space="preserve">
-    <value>Ctrl + F</value>
+    <value>Ctrl+F</value>
   </data>
   <data name="FullScreenCommand" xml:space="preserve">
     <value>Toàn màn hình</value>
   </data>
   <data name="FullScreenKey" xml:space="preserve">
-    <value>Shift + Alt + Enter</value>
+    <value>Shift+Alt+Enter</value>
   </data>
   <data name="FullScreenToolBarCommand" xml:space="preserve">
-    <value>Toàn màn hình</value>
+    <value>F_ull màn hình</value>
   </data>
   <data name="GoToEntryPointCommand" xml:space="preserve">
     <value>Đi đến _Entry Point</value>
@@ -283,7 +283,7 @@
     <value>Metadata token sai: 0x{0:X8}</value>
   </data>
   <data name="GoToToken_Label" xml:space="preserve">
-    <value>Metadata token</value>
+    <value>_Metadata token</value>
   </data>
   <data name="GoToToken_Title" xml:space="preserve">
     <value>Đi đến MD Token</value>
@@ -388,7 +388,7 @@
     <value>_Mở...</value>
   </data>
   <data name="OpenContainingFolderCommand" xml:space="preserve">
-    <value>Mở thư mục chứa</value>
+    <value>_Mở thư mục chứa</value>
   </data>
   <data name="OpenGACCommand" xml:space="preserve">
     <value>Mở từ _GAC...</value>
@@ -442,7 +442,7 @@
     <value>Open L_ist...</value>
   </data>
   <data name="OpenList_AskForName" xml:space="preserve">
-    <value>Tên</value>
+    <value>_Tên</value>
   </data>
   <data name="OpenList_Files_Column" xml:space="preserve">
     <value>Files</value>
@@ -466,7 +466,7 @@
     <value>S_aved lists</value>
   </data>
   <data name="OpenList_Search_Label" xml:space="preserve">
-    <value>Tìm kiếm</value>
+    <value>_Tìm kiếm</value>
   </data>
   <data name="OpenList_Title" xml:space="preserve">
     <value>Mở List</value>
@@ -499,7 +499,7 @@
     <value>Lưu</value>
   </data>
   <data name="SearchAbortedMessage" xml:space="preserve">
-    <value>Search aborted, more than {0:n0} results found.</value>
+    <value>_Search aborted, more than {0:n0} results found.</value>
   </data>
   <data name="SearchAssembliesCommand" xml:space="preserve">
     <value>_Search Assemblies</value>
@@ -571,7 +571,7 @@
     <value>Decompile a member's enclosing class instead of the class member</value>
   </data>
   <data name="DisplaySettings_HighlightReferences" xml:space="preserve">
-    <value>Đánh dấu các tham chiếu</value>
+    <value>Đánh dấu các References</value>
   </data>
   <data name="DisplaySettings_RestoreTabs" xml:space="preserve">
     <value>Khôi phục các Tab khi khởi động</value>
@@ -739,7 +739,7 @@
     <value>System</value>
   </data>
   <data name="LanguageSwitchMessage" xml:space="preserve">
-    <value>Bạn phải khởi động lại dnSpy để thay đổi ngôn ngữ có hiệu lực.</value>
+    <value>Bạn phải khởi động lại dnSpy để thay đổi Ngôn ngữ có hiệu lực.</value>
   </data>
   <data name="ShortCutKeyCtrlShiftO" xml:space="preserve">
     <value>Ctrl+Shift+O</value>
@@ -769,7 +769,7 @@
     <value>Tạo .res_x files</value>
   </data>
   <data name="ExportToProject_DecompileXaml" xml:space="preserve">
-    <value>Dịch ngược _baml sang xaml</value>
+    <value>Dịch ngược _BAML sang XAML</value>
   </data>
   <data name="ExportToProject_DestinationFolder" xml:space="preserve">
     <value>_Thư mục</value>
@@ -787,7 +787,7 @@
     <value>_Mở Project trong Visual Studio</value>
   </data>
   <data name="ExportToProject_ProjectVersion" xml:space="preserve">
-    <value>Phiên bản</value>
+    <value>_Phiên bản</value>
   </data>
   <data name="ExportToProject_SolutionFilename" xml:space="preserve">
     <value>_Solution</value>
@@ -802,7 +802,7 @@
     <value>_Đóng</value>
   </data>
   <data name="ErrorExceptionOccurred" xml:space="preserve">
-    <value>Đã xảy ra một trường hợp ngoại lệ
+    <value>An exception occurred
 
 {0}</value>
   </data>
@@ -825,7 +825,7 @@
     <value>Nested Types</value>
   </data>
   <data name="MemberKind_Properties" xml:space="preserve">
-    <value>Các thuộc tính</value>
+    <value>Properties</value>
   </data>
   <data name="AboutScreen_LicenseInfo" xml:space="preserve">
     <value>dnSpy is licensed under GPLv3.</value>
@@ -858,7 +858,7 @@
     <value>Đóng tất cả</value>
   </data>
   <data name="ExportToProject_NewGuid" xml:space="preserve">
-    <value>Mới</value>
+    <value>_Mới</value>
   </data>
   <data name="ExportToProject_ProjectGuid" xml:space="preserve">
     <value>_Project GUID</value>
@@ -975,7 +975,7 @@
     <value>Random Image</value>
   </data>
   <data name="BgImgSettings_Reset" xml:space="preserve">
-    <value>Đặt lại</value>
+    <value>Reset</value>
   </data>
   <data name="BgImgSettings_Zoom" xml:space="preserve">
     <value>Zoom %</value>
@@ -1053,10 +1053,10 @@
     <value>Match whole word</value>
   </data>
   <data name="Search_ReplaceAllToolTip" xml:space="preserve">
-    <value>Replace all</value>
+    <value>Thay thế tất cả</value>
   </data>
   <data name="Search_ReplaceNextToolTip" xml:space="preserve">
-    <value>Replace next</value>
+    <value>Thay thế tiếp theo</value>
   </data>
   <data name="Search_UseRegularExpressionsToolTip" xml:space="preserve">
     <value>Use Regular Expressions</value>
@@ -1092,7 +1092,7 @@
     <value>Chủ đề</value>
   </data>
   <data name="IntegrateWithWindowsExplorer" xml:space="preserve">
-    <value>Tích hợp với Windows Explorer</value>
+    <value>Tích hợp vào Windows Explorer</value>
   </data>
   <data name="AssemblyExplorerSettings_Order" xml:space="preserve">
     <value>Order (Restart needed)</value>
@@ -1104,7 +1104,7 @@
     <value>Đánh dấu cú pháp</value>
   </data>
   <data name="FontSettings" xml:space="preserve">
-    <value>Font</value>
+    <value>Phông chữ</value>
   </data>
   <data name="CodeEditorSettings" xml:space="preserve">
     <value>Code Editor</value>
@@ -1176,7 +1176,7 @@
     <value>Mouse wheel zoom</value>
   </data>
   <data name="TextEditorReferenceHighlighting" xml:space="preserve">
-    <value>Đánh dấu các tham chiếu</value>
+    <value>Đánh dấu các References</value>
   </data>
   <data name="TextEditorSelectionMargin" xml:space="preserve">
     <value>Selection margin</value>
@@ -1209,7 +1209,7 @@
     <value>Tất cả</value>
   </data>
   <data name="DocumentFilterType_AllSupported" xml:space="preserve">
-    <value>Tất cả được hỗ trợ</value>
+    <value>Tất cả (Supported)</value>
   </data>
   <data name="DocumentFilterType_DotNetOnly" xml:space="preserve">
     <value>Chỉ .NET</value>
@@ -1282,7 +1282,9 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Value must be between {0} and {1}</value>
   </data>
   <data name="AnErrorOccurred" xml:space="preserve">
-    <value>Đã xảy ra lỗi</value>
+    <value>Đã xảy ra lỗi:
+
+{0}</value>
   </data>
   <data name="HexEditorSaveSelection_Title" xml:space="preserve">
     <value>Save Selection 0x{0:X}-0x{1:X}</value>
@@ -1291,7 +1293,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>_Cài đặt mặc định</value>
   </data>
   <data name="Button_RestoreSettings" xml:space="preserve">
-    <value>Đặt lại</value>
+    <value>Reset</value>
   </data>
   <data name="BytesPerLineCommand" xml:space="preserve">
     <value>Bytes per Line</value>
@@ -1402,7 +1404,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Value _Format</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
-    <value>Dán</value>
+    <value>_Dán</value>
   </data>
   <data name="PasteDotNetMetaDataBlobCommand" xml:space="preserve">
     <value>Dán (#Blob Data)</value>
@@ -1459,7 +1461,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Ctrl+V</value>
   </data>
   <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Del</value>
     <comment>the delete key</comment>
   </data>
   <data name="ShowAllBytesCommand" xml:space="preserve">
@@ -1691,13 +1693,13 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Dấu trang</value>
   </data>
   <data name="BookmarksSettings_SyntaxHighlight" xml:space="preserve">
-    <value>Đánh dấu cú pháp</value>
+    <value>Syntax highlight</value>
   </data>
   <data name="SearchHelp_ToolTip" xml:space="preserve">
     <value>Trợ giúp</value>
   </data>
   <data name="Column_Labels" xml:space="preserve">
-    <value>Nhãn</value>
+    <value>Labels</value>
   </data>
   <data name="Column_Location" xml:space="preserve">
     <value>Vị trí</value>
@@ -1781,7 +1783,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Tắt dấu trang</value>
   </data>
   <data name="EditLabelsCommand" xml:space="preserve">
-    <value>Chỉnh sửa nhãn</value>
+    <value>Chỉnh sửa Labels</value>
   </data>
   <data name="EnableBookmarkCommand3" xml:space="preserve">
     <value>Bật dấu trang</value>
@@ -1814,7 +1816,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Hiển thị các kiểu định nghĩa</value>
   </data>
   <data name="ShowIntrinsicTypeKeywordsCommand" xml:space="preserve">
-    <value>Hiển thị từ khóa Intrinsic</value>
+    <value>Hiển thị Intrinsic Type Keywords</value>
   </data>
   <data name="ShowModuleNamesCommand" xml:space="preserve">
     <value>Show _Module Names</value>
@@ -1823,13 +1825,13 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Hiển thị Namespace</value>
   </data>
   <data name="ShowParameterNamesCommand" xml:space="preserve">
-    <value>Hiển thị tên các tham số</value>
+    <value>Hiển thị tên các Parameters</value>
   </data>
   <data name="ShowParameterTypesCommand2" xml:space="preserve">
-    <value>Hiển thị các kiểu tham số</value>
+    <value>Hiển thị các Parematers Type</value>
   </data>
   <data name="ShowReturnTypesCommand" xml:space="preserve">
-    <value>Hiển thị kiểu trả về</value>
+    <value>Hiển thị Type trả về</value>
   </data>
   <data name="ShowTokensCommand" xml:space="preserve">
     <value>Hiện Token</value>
@@ -1838,7 +1840,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Ctrl+K, Ctrl+W</value>
   </data>
   <data name="ClearAllBookmarksInDocumentCommand" xml:space="preserve">
-    <value>Xóa tất cả các dấu trang trong tài liệu</value>
+    <value>Xóa tất cả các dấu trang trong Document</value>
   </data>
   <data name="ClearBookmarksCommand" xml:space="preserve">
     <value>_Clear Bookmarks</value>
@@ -1868,7 +1870,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>P_revious Bookmark In Document</value>
   </data>
   <data name="GoToPreviousBookmarkWithSameLabelCommand" xml:space="preserve">
-    <value>Dấu trang trước với cùng một nhãn</value>
+    <value>Dấu trang trước với cùng một Label</value>
   </data>
   <data name="ShortCutKeyCtrlK_CtrlK" xml:space="preserve">
     <value>Ctrl+K, Ctrl+K</value>
@@ -1895,7 +1897,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Administrator</value>
   </data>
   <data name="AllowMoreThanOneInstance" xml:space="preserve">
-    <value>Cho phép nhiều trường hợp (Restart required)</value>
+    <value>Allow more than one instance (Restart required)</value>
   </data>
   <data name="DisassemblerDlgTabTitle" xml:space="preserve">
     <value>Disassembler</value>
@@ -1940,7 +1942,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>RIP-relative addresses</value>
   </data>
   <data name="DisassemblySettings_ScaleBeforeIndex" xml:space="preserve">
-    <value>Hiển thị quy mô trước khi đăng ký Index</value>
+    <value>Hiển thị scale trước khi đăng ký Index</value>
   </data>
   <data name="DisassemblySettings_BranchLeadingZeroes" xml:space="preserve">
     <value>Add leading zeroes (branches)</value>
@@ -2027,16 +2029,16 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Show IL code</value>
   </data>
   <data name="Disassembly_MethodIsNotOptimized" xml:space="preserve">
-    <value>The method is not optimized</value>
+    <value>Method chưa được tối ưu</value>
   </data>
   <data name="DisassemblySettings_ShowSymbolAddress" xml:space="preserve">
     <value>Show symbol address</value>
   </data>
   <data name="Decompile_Timestamp" xml:space="preserve">
-    <value>Mốc thời gian:</value>
+    <value>Timestamp:</value>
   </data>
   <data name="UnknownValue" xml:space="preserve">
-    <value>&lt;Không xác định&gt;</value>
+    <value>&lt;Unknown&gt;</value>
   </data>
   <data name="TypeReferencesFolder" xml:space="preserve">
     <value>Type References</value>
@@ -2048,10 +2050,10 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Fields</value>
   </data>
   <data name="TreeViewMethodsFolder" xml:space="preserve">
-    <value>Các Modules</value>
+    <value>Modules</value>
   </data>
   <data name="TreeViewPropertiesFolder" xml:space="preserve">
-    <value>Các thuộc tính</value>
+    <value>Properties</value>
   </data>
   <data name="TreeViewTypesFolder" xml:space="preserve">
     <value>Types</value>
@@ -2066,7 +2068,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Recent _Files</value>
   </data>
   <data name="ToolTip_Instruction" xml:space="preserve">
-    <value>Hướng dẫn</value>
+    <value>Instruction</value>
   </data>
   <data name="ToolTip_OpCode" xml:space="preserve">
     <value>OpCode</value>

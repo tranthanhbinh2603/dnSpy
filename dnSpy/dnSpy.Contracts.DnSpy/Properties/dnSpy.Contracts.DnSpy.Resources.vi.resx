@@ -121,10 +121,12 @@
     <value>Tất cả tập tin</value>
   </data>
   <data name="AnErrorOccurred" xml:space="preserve">
-    <value>Xảy ra lỗi: {0}</value>
+    <value>Xảy ra lỗi: 
+
+{0}</value>
   </data>
   <data name="Button_Cancel" xml:space="preserve">
-    <value>Hủy</value>
+    <value>_Hủy</value>
   </data>
   <data name="CouldNotConvert" xml:space="preserve">
     <value>Không thể chuyển đổi '{0}'</value>

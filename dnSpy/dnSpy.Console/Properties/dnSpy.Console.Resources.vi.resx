@@ -235,7 +235,7 @@
     <value>không dùng GAC để tìm kiếm các Assembly. Hữu ích với --no-stdlib</value>
   </data>
   <data name="CmdLineDescription_NoResources" xml:space="preserve">
-    <value>không Unpack các resource</value>
+    <value>không unpack các resources</value>
   </data>
   <data name="CmdLineDescription_NoResX" xml:space="preserve">
     <value>không tạo các tệp .resx</value>
@@ -310,12 +310,12 @@
     <value>không tô màu chữ</value>
   </data>
   <data name="CmdLineDescription_Spaces" xml:space="preserve">
-    <value>Kích thước một tab trong khoảng trắng là 0 hoặc sử dụng tab</value>
+    <value>Kích thước một tab trong khoảng trắng là 0 hoặc sử dụng Tab</value>
   </data>
   <data name="InvalidSpacesArgument" xml:space="preserve">
     <value>Số khoảng trắng phải nằm giữa {0} và {1}</value>
   </data>
   <data name="MissingArgument" xml:space="preserve">
-    <value>Thiếu đối số</value>
+    <value>Missing Argument</value>
   </data>
 </root>

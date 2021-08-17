@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClassesToolTip" xml:space="preserve">
-    <value>Các lớp</value>
+    <value>Classes</value>
   </data>
   <data name="CompilerSettings_AllowUnsafe" xml:space="preserve">
     <value>Cho phép mã không an toàn</value>
@@ -130,7 +130,7 @@
     <value>Embed Visual Basic runtime</value>
   </data>
   <data name="CompilerSettings_Optimize" xml:space="preserve">
-    <value>Tối ưu hóa mã</value>
+    <value>Tối ưu hóa code</value>
   </data>
   <data name="CompilerSettings_OptionCompareBinary" xml:space="preserve">
     <value>Tùy chọn so sánh: binary</value>
@@ -145,13 +145,13 @@
     <value>Tùy chọn nghiêm ngặt</value>
   </data>
   <data name="CompilerSettings_PreprocessorSymbols" xml:space="preserve">
-    <value>Biểu tượng biên dịch có điều kiện</value>
+    <value>Conditional compilation symbols</value>
   </data>
   <data name="CompletionSet_All" xml:space="preserve">
     <value>Tất cả</value>
   </data>
   <data name="ConstantsToolTip" xml:space="preserve">
-    <value>Hằng số</value>
+    <value>Constants</value>
   </data>
   <data name="DebuggerExpressionHasNoValue" xml:space="preserve">
     <value>Biểu thức đã được đánh giá và không có giá trị</value>
@@ -196,7 +196,7 @@
     <value>Enums</value>
   </data>
   <data name="EventsToolTip" xml:space="preserve">
-    <value>Các sự kiện</value>
+    <value>Events</value>
   </data>
   <data name="ExtensionMethodsToolTip" xml:space="preserve">
     <value>Extension methods</value>
@@ -226,7 +226,7 @@
     <value>Kiểu biến</value>
   </data>
   <data name="MethodsToolTip" xml:space="preserve">
-    <value>Các Methods</value>
+    <value>Methods</value>
   </data>
   <data name="ModulesToolTip" xml:space="preserve">
     <value>Modules</value>
@@ -235,16 +235,16 @@
     <value>Namespaces</value>
   </data>
   <data name="PropertiesToolTip" xml:space="preserve">
-    <value>Tính chất</value>
+    <value>Properties</value>
   </data>
   <data name="ResultsView_MustBeEnumerableType" xml:space="preserve">
-    <value>Chỉ có vô số loại có thể có Kết quả Xem</value>
+    <value>Only Enumerable types can have Results View</value>
   </data>
   <data name="SnippetsToolTip" xml:space="preserve">
     <value>Đoạn trích</value>
   </data>
   <data name="StructuresToolTip" xml:space="preserve">
-    <value>Cấu trúc</value>
+    <value>Structures</value>
   </data>
   <data name="SystemCoreDllNotLoaded" xml:space="preserve">
     <value>Chế độ xem kết quả yêu cầu {0} để được tham chiếu</value>
