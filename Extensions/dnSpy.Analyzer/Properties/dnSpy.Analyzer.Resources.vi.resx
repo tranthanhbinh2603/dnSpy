@@ -193,7 +193,7 @@
     <value>Ctrl+Shift+R</value>
   </data>
   <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Xóa</value>
+    <value>Delete</value>
   </data>
   <data name="ShowMetadataTokensCommand" xml:space="preserve">
     <value>Hiện Token</value>

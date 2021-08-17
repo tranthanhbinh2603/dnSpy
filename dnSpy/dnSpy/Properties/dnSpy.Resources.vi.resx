@@ -1459,7 +1459,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>Ctrl+V</value>
   </data>
   <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Xóa</value>
+    <value>Delete</value>
     <comment>the delete key</comment>
   </data>
   <data name="ShowAllBytesCommand" xml:space="preserve">

@@ -172,7 +172,7 @@
     <value>_Hủy bỏ</value>
   </data>
   <data name="Button_Delete" xml:space="preserve">
-    <value>_Xoá</value>
+    <value>_Delete</value>
   </data>
   <data name="Button_Edit" xml:space="preserve">
     <value>_Chỉnh sửa...</value>
@@ -313,23 +313,23 @@
     <value>Tuỳ chỉnh Attrs</value>
   </data>
   <data name="CutCommand" xml:space="preserve">
-    <value>Cắ_t</value>
+    <value>Cu_t</value>
   </data>
   <data name="DeleteCommandKey" xml:space="preserve">
-    <value>Xóa</value>
+    <value>Delete</value>
     <comment>the delete key</comment>
   </data>
   <data name="DeleteEventCommand" xml:space="preserve">
-    <value>Xóa Sự kiện</value>
+    <value>Xóa Event</value>
   </data>
   <data name="DeleteEvents" xml:space="preserve">
-    <value>Đã xóa {0} sự kiện</value>
+    <value>Đã xóa {0} events</value>
   </data>
   <data name="DeleteFieldCommand" xml:space="preserve">
     <value>Xóa Field</value>
   </data>
   <data name="DeleteFieldsCommand" xml:space="preserve">
-    <value>Đã xóa {0} Field</value>
+    <value>Đã xóa {0} fields</value>
   </data>
   <data name="DeleteX" xml:space="preserve">
     <value>Xóa {0}</value>
@@ -1125,16 +1125,16 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Xóa Method</value>
   </data>
   <data name="DeleteMethodsCommand" xml:space="preserve">
-    <value>Xóa {0} method</value>
+    <value>Xóa {0} methods</value>
   </data>
   <data name="DeleteNamespaceCommand" xml:space="preserve">
     <value>Xóa Namespace</value>
   </data>
   <data name="DeleteNamespacesCommand" xml:space="preserve">
-    <value>Xóa {0} Namespace</value>
+    <value>Xóa {0} Namespaces</value>
   </data>
   <data name="DeletePropertiesCommand" xml:space="preserve">
-    <value>Xóa {0} property</value>
+    <value>Xóa {0} propertys</value>
   </data>
   <data name="DeletePropertyCommand" xml:space="preserve">
     <value>Xóa Property</value>
@@ -1143,7 +1143,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Xóa Resource</value>
   </data>
   <data name="DeleteResourcesCommand" xml:space="preserve">
-    <value>Xóa {0} resource</value>
+    <value>Xóa {0} resources</value>
   </data>
   <data name="DeleteTypeCommand" xml:space="preserve">
     <value>Xóa Type</value>

@@ -524,7 +524,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Ctrl+{0}</value>
   </data>
   <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Xóa</value>
+    <value>Delete</value>
   </data>
   <data name="ShortCutKeyEnter" xml:space="preserve">
     <value>Enter</value>
