@@ -1336,7 +1336,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Autos</value>
   </data>
   <data name="DbgSettings_HighlightChangedVariables" xml:space="preserve">
-    <value>Đánh dấu các biến đã thay đổi trong cửa sổ biến</value>
+    <value>Đánh dấu các biến đã thay đổi trong cửa sổ Variables</value>
   </data>
   <data name="MakeObjectIdCommand" xml:space="preserve">
     <value>_Make Object ID</value>

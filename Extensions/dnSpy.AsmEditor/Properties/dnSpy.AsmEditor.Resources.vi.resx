@@ -130,7 +130,7 @@
     <value>Bật theo dõi quá trình đóng gói _JIT</value>
   </data>
   <data name="AssemblyDlg_Main_CB_ProcessArchSpec" xml:space="preserve">
-    <value>Chỉ rõ kiểu Chip</value>
+    <value>Chỉ rõ Chip Type</value>
   </data>
   <data name="AssemblyDlg_Main_CB_PublicKey" xml:space="preserve">
     <value>Khoá công khai</value>
@@ -190,7 +190,7 @@
     <value>_Tên</value>
   </data>
   <data name="CA_NA_PropertyFieldTypeToolTip" xml:space="preserve">
-    <value>Kiểu Property/Field</value>
+    <value>Property/Field Type</value>
   </data>
   <data name="ClearCharacter" xml:space="preserve">
     <value>C</value>
@@ -256,7 +256,7 @@
     <value>Tạo chữ ký Method FnPtr</value>
   </data>
   <data name="CreateGenericInstanceTypeArguments" xml:space="preserve">
-    <value>Tạo đối số kiểu Generic Instance</value>
+    <value>Tạo đối số Generic Instance Type</value>
   </data>
   <data name="CreateGenericParameter" xml:space="preserve">
     <value>Tạo Generic Parameter</value>
@@ -277,7 +277,7 @@
     <value>Tạo Property Signature</value>
   </data>
   <data name="CreateReturnType" xml:space="preserve">
-    <value>Tạo kiểu Return</value>
+    <value>Tạo Return Type</value>
   </data>
   <data name="CreateSecurityAttribute" xml:space="preserve">
     <value>Tạo thuộc tính Security</value>
@@ -515,10 +515,10 @@
     <value>Main</value>
   </data>
   <data name="MarshalType" xml:space="preserve">
-    <value>Kiểu Marshal: {0}</value>
+    <value>Marshal Type: {0}</value>
   </data>
   <data name="MarshalTypeTab" xml:space="preserve">
-    <value>Kiểu Marshal</value>
+    <value>Marshal Type</value>
   </data>
   <data name="MarshalType_Array" xml:space="preserve">
     <value>_Array</value>
@@ -611,7 +611,7 @@
     <value>_Tên</value>
   </data>
   <data name="MemberRef_Type" xml:space="preserve">
-    <value>_Kiểu</value>
+    <value>_Type</value>
   </data>
   <data name="MemberRef_TypeSpec" xml:space="preserve">
     <value>Type_Spec</value>
@@ -626,16 +626,16 @@
     <value>Method không thể Null</value>
   </data>
   <data name="MethodInstantiationTypesTab" xml:space="preserve">
-    <value>Các kiểu Method cụ thể</value>
+    <value>Các Method Types cụ thể</value>
   </data>
   <data name="MethodSig_CallingConv" xml:space="preserve">
     <value>Ca_lling Conv</value>
   </data>
   <data name="MethodSig_MethodParameterTypes" xml:space="preserve">
-    <value>Các kiểu Method Parameter</value>
+    <value>Các Method Parameter Types</value>
   </data>
   <data name="MethodSig_MethodVarArgParameterTypes" xml:space="preserve">
-    <value>Các kiểu Method VarArg Parameter</value>
+    <value>Các Method VarArg Parameter Types</value>
   </data>
   <data name="MethodSig_NumGenerics" xml:space="preserve">
     <value># Generic_s</value>
@@ -725,10 +725,10 @@
     <value>Chọn một Constructor</value>
   </data>
   <data name="Pick_EnumType" xml:space="preserve">
-    <value>Chọn một kiểu Enum</value>
+    <value>Chọn một Enum type</value>
   </data>
   <data name="Pick_Type" xml:space="preserve">
-    <value>Chọn một Kiểu</value>
+    <value>Chọn một Type</value>
   </data>
   <data name="RawCustomAttributeBlob" xml:space="preserve">
     <value>Raw Blob</value>
@@ -860,7 +860,7 @@
     <value>_GenericInst</value>
   </data>
   <data name="TypeSigCreator_GenericInst_ToolTip" xml:space="preserve">
-    <value>Thêm một kiểu Generic instance</value>
+    <value>Thêm một Generic instance type</value>
   </data>
   <data name="TypeSigCreator_GenericsCount" xml:space="preserve">
     <value>#</value>
@@ -960,7 +960,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Method này có thể còn được tham chiếu trong mã nguồn. Bạn có chắc chắn muốn xóa nó không?</value>
   </data>
   <data name="AskDeleteType" xml:space="preserve">
-    <value>Có thể có mã trong một số Assembly mà tham chiếu kiểu này. Bạn có chắc chắn muốn xóa Type?</value>
+    <value>There could be code in some assembly that references this type. Are you sure you want to delete the type?</value>
   </data>
   <data name="AskExitUnsavedFile" xml:space="preserve">
     <value>Có một tệp tin chưa lưu. Bạn có muốn lưu nó trước khi thoát không?</value>
@@ -981,10 +981,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Các tập tin chưa được lưu. Bạn có muốn lưu chúng trước khi tiếp tục?</value>
   </data>
   <data name="BaseTypeTab" xml:space="preserve">
-    <value>Kiểu Base</value>
+    <value>Base type</value>
   </data>
   <data name="BaseTypeX" xml:space="preserve">
-    <value>Kiểu Base:{0}</value>
+    <value>Base type:{0}</value>
   </data>
   <data name="Button_Append" xml:space="preserve">
     <value>A_ppend</value>
@@ -1086,10 +1086,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Tạo nhiều tệp Resources</value>
   </data>
   <data name="CreateNestedTypeCommand" xml:space="preserve">
-    <value>Tạo kiểu Nested...</value>
+    <value>Tạo Nested Type...</value>
   </data>
   <data name="CreateNestedTypeCommand2" xml:space="preserve">
-    <value>Tạo kiểu Nested</value>
+    <value>Tạo type Nested</value>
   </data>
   <data name="CreateNetModuleCommand" xml:space="preserve">
     <value>Tạo NetModule...</value>
@@ -1263,10 +1263,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Không thể tìm thấy method: {0}</value>
   </data>
   <data name="Error_CouldNotFindTypeOrItsAssembly" xml:space="preserve">
-    <value>Không tìm thấy kiểu hoặc assembly tương ứng.</value>
+    <value>Không tìm thấy type hoặc assembly tương ứng.</value>
   </data>
   <data name="Error_CouldNotLoadType" xml:space="preserve">
-    <value>Không thể đọc kiểu '{0}': {1}</value>
+    <value>Không thể đọc type '{0}': {1}</value>
   </data>
   <data name="Error_CouldNotSerializeImages" xml:space="preserve">
     <value>Không thể serialize ảnh. Lỗi: {0}</value>
@@ -2016,7 +2016,7 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>TryStart</value>
   </data>
   <data name="ExceptionHandler_Column_Type" xml:space="preserve">
-    <value>Kiểu</value>
+    <value>Type</value>
   </data>
   <data name="Flags" xml:space="preserve">
     <value>Flags</value>
@@ -2184,7 +2184,7 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>Không hỗ trợ thêm hoặc xóa 'Static'/'Shared' khỏi Method được sửa: {0}</value>
   </data>
   <data name="ERR_IM_CouldNotFindEditedMethod" xml:space="preserve">
-    <value>Không tìm thấy Method đã sửa. Hãy chắc chắn bạn không thêm hoặc xóa 'Static'/'Shared' hoặc thay đổi kiểu tham số, kiểu trả về hoặc tên Method: {0}</value>
+    <value>Không tìm thấy Method đã sửa. Hãy chắc chắn bạn không thêm hoặc xóa 'Static'/'Shared' hoặc thay đổi parameter type trả về hoặc tên Method: {0}</value>
   </data>
   <data name="ERR_IM_CouldNotFindField" xml:space="preserve">
     <value>Không thể tìm thấy Field: {0}</value>
@@ -2298,7 +2298,7 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>_Thay thế với NOPs</value>
   </data>
   <data name="Type_Flags_Accessibility" xml:space="preserve">
-    <value>>Accessibilit_y</value>
+    <value>Accessibilit_y</value>
   </data>
   <data name="Type_Flags_Kind" xml:space="preserve">
     <value>_Loại</value>
