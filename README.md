@@ -1,6 +1,4 @@
-# dnSpy - [Latest release](https://github.com/VNGhostMans/dnSpy/releases)
-
-# (Support Vietnamese language)
+# dnSpy - [Latest release](https://github.com/VNGhostMans/dnSpy/releases) (Support Vietnamese language)
 
 dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
 
