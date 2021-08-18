@@ -2310,6 +2310,6 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>Strin_g</value>
   </data>
   <data name="Type_Flags_Visibility" xml:space="preserve">
-    <value>>Visibilit_y</value>
+    <value>Visibilit_y</value>
   </data>
 </root>
