@@ -187,7 +187,7 @@
     <value>Chỉ có thể dịch ngược các Type, Method, Field, Event và Property</value>
   </data>
   <data name="CouldNotFindTypeX" xml:space="preserve">
-    <value>Không tìm thấy kiểu {0}</value>
+    <value>Không tìm thấy Type {0}</value>
   </data>
   <data name="CouldNotResolveGacFileX" xml:space="preserve">
     <value>Không thể tìm thấy GAC assembly '{0}'</value>
@@ -196,7 +196,7 @@
     <value>Thiếu tên GAC assembly</value>
   </data>
   <data name="MissingTypeName" xml:space="preserve">
-    <value>Thiếu tên đầy đủ của kiểu</value>
+    <value>Thiếu tên đầy đủ của Type</value>
   </data>
   <data name="LanguageXDoesNotSupportProjects" xml:space="preserve">
     <value>Không hỗ trợ tạo các tệp dự án ngôn ngữ {0}</value>
@@ -205,10 +205,10 @@
     <value>Các tùy chọn ngôn ngữ:</value>
   </data>
   <data name="LanguageOptionsDesc" xml:space="preserve">
-    <value>Tất cả tùy chọn logic có thể bị vô hiệu hóa khi sử dụng 'no-' hoặc 'dont-', ví dụ: --dont-sort-members</value>
+    <value>Tất cả tùy chọn Logic có thể bị vô hiệu hóa khi sử dụng 'no-' hoặc 'dont-', ví dụ: --dont-sort-members</value>
   </data>
   <data name="MissingOptionArgument" xml:space="preserve">
-    <value>Thiếu đối số tùy chọn</value>
+    <value>Thiếu Option Argument</value>
   </data>
   <data name="InvalidGuid" xml:space="preserve">
     <value>GUID không hợp lệ</value>
@@ -295,7 +295,7 @@
     <value>Dịch ngược tất cả các tệp tin .NET *.dll trong thư mục trên và lưu các tệp tin vào C:\out\path</value>
   </data>
   <data name="ExampleDescription4" xml:space="preserve">
-    <value>Dịch ngược member với token 0x06000123</value>
+    <value>Dịch ngược Member với token 0x06000123</value>
   </data>
   <data name="ExampleDescription5" xml:space="preserve">
     <value>Dịch ngược System.Int32 từ mscorlib</value>

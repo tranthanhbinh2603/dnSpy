@@ -175,7 +175,7 @@
     <value>Type "#help" for more information.</value>
   </data>
   <data name="LoadingContextFromFile" xml:space="preserve">
-    <value>Đang tải ngữ cảnh từ '{0}'.</value>
+    <value>Đang tải Context từ '{0}'.</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
     <value>_Dán</value>
@@ -196,7 +196,7 @@
     <value>History Previous</value>
   </data>
   <data name="Script_ToolTip_Reset" xml:space="preserve">
-    <value>Đặt lại</value>
+    <value>Reset</value>
   </data>
   <data name="ShortCutKeyAltDown" xml:space="preserve">
     <value>Alt+Mũi tên xuống</value>
@@ -247,7 +247,7 @@
     <value>Hiển thị trợ giúp</value>
   </data>
   <data name="HelpResetDescription" xml:space="preserve">
-    <value>Đặt lại môi trường thực thi</value>
+    <value>Reset the execution environment</value>
   </data>
   <data name="ClearScreenCommand" xml:space="preserve">
     <value>Clear Screen</value>

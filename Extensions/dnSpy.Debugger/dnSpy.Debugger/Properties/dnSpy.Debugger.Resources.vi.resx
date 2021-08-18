@@ -211,10 +211,10 @@
     <value>ID</value>
   </data>
   <data name="Column_ProcessTitle" xml:space="preserve">
-    <value>Tiêu đề</value>
+    <value>Title</value>
   </data>
   <data name="Column_ProcessType" xml:space="preserve">
-    <value>Kiểu</value>
+    <value>Type</value>
   </data>
   <data name="Column_ThreadAffinityMask" xml:space="preserve">
     <value>Affinity Mask</value>
@@ -349,10 +349,10 @@ LỖI: {1}</value>
     <value>Tìm kiếm</value>
   </data>
   <data name="Exceptions_Search_ToolTip" xml:space="preserve">
-    <value>Tìm kiếm một ngoại lệ</value>
+    <value>Tìm kiếm một Exception</value>
   </data>
   <data name="Exceptions_ShowOnlyEnabledExceptions_ToolTip" xml:space="preserve">
-    <value>Chỉ hiển thị các trường hợp ngoại lệ đã bật</value>
+    <value>Chỉ hiển thị các Exception đã bật</value>
   </data>
   <data name="FreezeThreadCommand" xml:space="preserve">
     <value>_Freeze</value>
@@ -901,10 +901,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>&lt;Tất cả {0} không có trong danh sách này&gt;</value>
   </data>
   <data name="Exceptions_EditConditions_ToolTip" xml:space="preserve">
-    <value>Sửa điều kiện</value>
+    <value>Sửa conditions</value>
   </data>
   <data name="Column_Conditions" xml:space="preserve">
-    <value>Điều kiện</value>
+    <value>Conditions</value>
   </data>
   <data name="Column_BreakWhenThrown" xml:space="preserve">
     <value>Break When Thrown</value>
@@ -949,10 +949,10 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tên không được để trống</value>
   </data>
   <data name="EditConditions_Title" xml:space="preserve">
-    <value>Chỉnh sửa điều kiện</value>
+    <value>Chỉnh sửa conditions</value>
   </data>
   <data name="Button_AddCondition" xml:space="preserve">
-    <value>_Thêm điều kiện</value>
+    <value>_Thêm condition</value>
   </data>
   <data name="ModuleBreakpointsCommand" xml:space="preserve">
     <value>Mod_ule Breakpoints</value>
@@ -1036,7 +1036,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>_Tiếp tục Process</value>
   </data>
   <data name="AttachToProcess_Search_ToolTip" xml:space="preserve">
-    <value>Tìm kiếm một ngoại lệ</value>
+    <value>Tìm kiếm một process</value>
   </data>
   <data name="AutosCommand" xml:space="preserve">
     <value>_Autos</value>
@@ -1198,7 +1198,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Lượt nhấn bằng {0}</value>
   </data>
   <data name="Breakpoint_HitCount_HitCountIsGreaterThanOrEqualTo2" xml:space="preserve">
-    <value>Lượt nhấn lớn hơn hoặc bằng {0}</value>
+    <value>Hit Count lớn hơn hoặc bằng {0}</value>
   </data>
   <data name="Breakpoint_Tracepoint_PrintMessage2" xml:space="preserve">
     <value>Log message '{0}', to Output window</value>
@@ -1363,19 +1363,19 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>_Dán</value>
   </data>
   <data name="ExpressionCausesSideEffectsNoEval" xml:space="preserve">
-    <value>Biểu hiện này gây ra tác dụng phụ và sẽ không được đánh giá</value>
+    <value>This expression causes side effects and will not be evaluated</value>
   </data>
   <data name="RefreshExpressionButtonToolTip" xml:space="preserve">
-    <value>Nhấp vào nút này để đánh giá ngay bây giờ.</value>
+    <value>Nhấp vào button này để đánh giá ngay bây giờ.</value>
   </data>
   <data name="ErrorEvaluatingExpression" xml:space="preserve">
-    <value>Không thể đánh giá biểu thức</value>
+    <value>Couldn't evaluate the expression</value>
   </data>
   <data name="DeleteObjectIdCommand" xml:space="preserve">
     <value>Xóa Object ID</value>
   </data>
   <data name="DbgSettings_ShowRawStructureOfObjects" xml:space="preserve">
-    <value>Hiển thị cấu trúc thô của các đối tượng trong cửa sổ biến</value>
+    <value>Show raw structure of objects in variables windows</value>
   </data>
   <data name="UnknownValue" xml:space="preserve">
     <value>&lt;Không xác định&gt;</value>
@@ -1384,7 +1384,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Làm mới</value>
   </data>
   <data name="DbgSettings_GroupParametersAndLocalsTogether" xml:space="preserve">
-    <value>Nhóm các thông số và locals với nhau</value>
+    <value>Nhóm các thông số và Locals với nhau</value>
   </data>
   <data name="DbgSettings_ShowCompilerGeneratedVariables" xml:space="preserve">
     <value>Hiển thị các biến trình biên dịch tạo ra</value>
@@ -1396,16 +1396,16 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Sắp xếp các Locals</value>
   </data>
   <data name="DbgSettings_SortParameters" xml:space="preserve">
-    <value>Sắp xếp các tham số</value>
+    <value>Sắp xếp các Parameters</value>
   </data>
   <data name="DbgSettings_HideCompilerGeneratedMembers" xml:space="preserve">
-    <value>Ẩn các thành viên do trình biên dịch tạo ra</value>
+    <value>Ẩn các Members do trình biên dịch tạo ra</value>
   </data>
   <data name="FunctionEvaluationDisabled" xml:space="preserve">
     <value>Đánh giá chức năng ngầm bị người dùng tắt</value>
   </data>
   <data name="DbgSettings_RespectHideMemberAttributes" xml:space="preserve">
-    <value>Tôn trọng các thuộc tính ẩn Member</value>
+    <value>Respect attributes that hide members</value>
   </data>
   <data name="InternalDebuggerError" xml:space="preserve">
     <value>Lỗi trình gỡ lỗi hiện tại</value>
@@ -1420,7 +1420,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Dòng lệnh</value>
   </data>
   <data name="CannotReadLocalOrArgumentMaybeOptimizedAway" xml:space="preserve">
-    <value>Không thể lấy giá trị của biến/tham số cục bộ vì không có trong con trỏ chỉ thị (Ip), có thể vì chương trình đã được tối ưu hóa.</value>
+    <value>Cannot obtain value of the local variable or argument because it is not available at this instruction pointer, possibly because it has been optimized away.</value>
   </data>
   <data name="ExceptionMessage" xml:space="preserve">
     <value>Thông báo: {0}</value>
@@ -1480,7 +1480,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Tạo hình ảnh dễ gỡ lỗi hơn</value>
   </data>
   <data name="ShowOnlyPublicMembersCommand" xml:space="preserve">
-    <value>Thành viên công khai</value>
+    <value>Public Members</value>
   </data>
   <data name="DbgSettings_ShowRawLocals" xml:space="preserve">
     <value>Show raw locals</value>
@@ -1504,13 +1504,13 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Alt+8</value>
   </data>
   <data name="DbgSettings_IgnoreUnhandledExceptions" xml:space="preserve">
-    <value>Bỏ qua các ngoại lệ không được xử lý</value>
+    <value>Bỏ qua các Exceptions không được xử lý</value>
   </data>
   <data name="RunWithInvalidExtension" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn chạy tệp này không có phần mở rộng hợp lệ không?</value>
+    <value>Bạn có chắc chắn muốn chạy tệp không có phần mở rộng hợp lệ không?</value>
   </data>
   <data name="DebugWithInvalidExtension" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn gỡ lỗi tệp này không có phần mở rộng hợp lệ không?</value>
+    <value>Bạn có chắc chắn muốn gỡ lỗi tệp không có phần mở rộng hợp lệ không?</value>
   </data>
   <data name="Processes_NoMatch" xml:space="preserve">
     <value>Không có quy trình nào phù hợp với bộ lọc tìm kiếm của bạn.</value>

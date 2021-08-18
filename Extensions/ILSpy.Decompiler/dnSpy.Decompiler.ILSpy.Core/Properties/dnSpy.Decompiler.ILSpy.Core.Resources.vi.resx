@@ -166,7 +166,7 @@
     <value>Thêm namespaces cho tất cả các types</value>
   </data>
   <data name="DecompilerSettings_FullyQualifyAmbiguousTypeNames" xml:space="preserve">
-    <value>Thêm một namespace cho các loại có cùng tên</value>
+    <value>Thêm một namespace cho các types có cùng tên</value>
   </data>
   <data name="DecompilerSettings_HexadecimalNumbers" xml:space="preserve">
     <value>Hexadecimal numbers</value>
@@ -193,7 +193,7 @@
     <value>Hiển thị một thuộc tính tùy chỉnh trên mỗi dòng</value>
   </data>
   <data name="DecompilerSettings_RemoveEmptyDefaultCtors" xml:space="preserve">
-    <value>Xóa các hàm tạo mặc định trống</value>
+    <value>Remove empty default constructors</value>
   </data>
   <data name="DecompilerSettings_RemoveNewDelegateClass" xml:space="preserve">
     <value>Thay thế 'new delegate-class(xxx)' bằng 'xxx'</value>

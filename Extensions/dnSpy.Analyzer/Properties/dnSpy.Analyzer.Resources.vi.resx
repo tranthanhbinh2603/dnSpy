@@ -142,16 +142,16 @@
     <value>Chức năng mở rộng</value>
   </data>
   <data name="GoToReferenceCommand" xml:space="preserve">
-    <value>Đi đến nơi chứa tham chiếu</value>
+    <value>Đi đến Reference</value>
   </data>
   <data name="GoToReferenceInCodeCommand" xml:space="preserve">
-    <value>Hiển thị tham chiếu trong Method</value>
+    <value>Hiển thị reference trong Method</value>
   </data>
   <data name="GoToReferenceInCodeNewTabCommand" xml:space="preserve">
-    <value>Hiện các tham chiếu của Method (Tab mới)</value>
+    <value>Hiện các reference của Method (Tab mới)</value>
   </data>
   <data name="GoToReferenceNewTabCommand" xml:space="preserve">
-    <value>Đến nơi chứa tham chiếu (Tab mới)</value>
+    <value>Đến nơi Reference (Tab mới)</value>
   </data>
   <data name="HidesParent" xml:space="preserve">
     <value>ẩn</value>

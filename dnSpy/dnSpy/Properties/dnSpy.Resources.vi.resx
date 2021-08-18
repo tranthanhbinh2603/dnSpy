@@ -709,7 +709,7 @@
     <value>Tìm kiếm</value>
   </data>
   <data name="SearchWindow_Type" xml:space="preserve">
-    <value>Kiểu</value>
+    <value>Type</value>
   </data>
   <data name="SearchWindow_Type_Key" xml:space="preserve">
     <value>Ctrl+Del</value>
@@ -831,7 +831,7 @@
     <value>dnSpy is licensed under GPLv3.</value>
   </data>
   <data name="AboutScreen_LoadedFiles" xml:space="preserve">
-    <value>Đã tải tệp:</value>
+    <value>Loaded Files:</value>
   </data>
   <data name="SearchWindow_SearchFrameworkAssemblies" xml:space="preserve">
     <value>Search in framework assemblies</value>
@@ -846,7 +846,7 @@
     <value>Tệp đã chọn</value>
   </data>
   <data name="SearchWindow_Where_SelectedType" xml:space="preserve">
-    <value>Loại đã chọn</value>
+    <value>Type đã chọn</value>
   </data>
   <data name="GoToResourceCommand" xml:space="preserve">
     <value>Đi đến Re_source</value>
@@ -1516,7 +1516,7 @@ Bộ lọc có thể được thay đổi trong tùy chọn Assembly Explorer.</
     <value>F12</value>
   </data>
   <data name="HexEditorHighlightStructureUnderMouseCursor" xml:space="preserve">
-    <value>Đánh dấu cấu trúc dưới con trỏ chuột</value>
+    <value>Đánh dấu Structure dưới con trỏ chuột</value>
   </data>
   <data name="HexToolTipIndex" xml:space="preserve">
     <value>index</value>

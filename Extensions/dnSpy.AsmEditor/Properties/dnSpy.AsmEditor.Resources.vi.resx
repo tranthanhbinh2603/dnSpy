@@ -148,7 +148,7 @@
     <value>.NET _Version</value>
   </data>
   <data name="AssemblyDlg_Main_HashAlgorithm" xml:space="preserve">
-    <value>Thuật toán _Hash</value>
+    <value>_Hash Algorithm</value>
   </data>
   <data name="AssemblyDlg_Main_Name" xml:space="preserve">
     <value>_Tên</value>
@@ -157,7 +157,7 @@
     <value>Proce_ssor Arch</value>
   </data>
   <data name="AssemblyDlg_Main_PublicKey" xml:space="preserve">
-    <value>Khóa _Public</value>
+    <value>_Public Key</value>
   </data>
   <data name="AssemblyDlg_Main_Version" xml:space="preserve">
     <value>_Phiên bản</value>
@@ -184,7 +184,7 @@
     <value>_Loại bỏ</value>
   </data>
   <data name="Button_RestoreSettings" xml:space="preserve">
-    <value>Đặt lại</value>
+    <value>Reset</value>
   </data>
   <data name="CA_NA_Name" xml:space="preserve">
     <value>_Tên</value>
@@ -196,7 +196,7 @@
     <value>C</value>
   </data>
   <data name="ClearCharacter_ToolTip" xml:space="preserve">
-    <value>Xóa các đối tượng</value>
+    <value>Clear Objects</value>
   </data>
   <data name="ClearTypesCharacter" xml:space="preserve">
     <value>C</value>
@@ -205,10 +205,10 @@
     <value>Xóa các Type</value>
   </data>
   <data name="ConstantDlg_Constant" xml:space="preserve">
-    <value>Hằng số</value>
+    <value>Constant</value>
   </data>
   <data name="ConstructorArguments" xml:space="preserve">
-    <value>Đối số Constructor</value>
+    <value>Constructor Arguments</value>
   </data>
   <data name="CopyAsTextCommand" xml:space="preserve">
     <value>Sao chép như Te_xt</value>
@@ -262,7 +262,7 @@
     <value>Tạo Generic Parameter</value>
   </data>
   <data name="CreateGenericParameterConstraint" xml:space="preserve">
-    <value>Tạo rằng buộc Generic Parameter</value>
+    <value>Tạo Generic Parameter Constraint</value>
   </data>
   <data name="CreateMethodOverride" xml:space="preserve">
     <value>Tạo Method Override</value>
@@ -335,7 +335,7 @@
     <value>Xóa {0}</value>
   </data>
   <data name="DisableMMapIOCommand" xml:space="preserve">
-    <value>Vô hiệu hóa bộ nhớ ánh xạ i/o</value>
+    <value>Vô hiệu hóa Memory Mapped I/O</value>
   </data>
   <data name="EditAssemblyCommand" xml:space="preserve">
     <value>Chỉnh sửa Assembly...</value>
@@ -578,10 +578,10 @@
     <value>_VT</value>
   </data>
   <data name="MemberRef_Class" xml:space="preserve">
-    <value>Lớp</value>
+    <value>Class</value>
   </data>
   <data name="MemberRef_ClassTab" xml:space="preserve">
-    <value>Lớp</value>
+    <value>Class</value>
   </data>
   <data name="MemberRef_FieldSigTab" xml:space="preserve">
     <value>FieldSig</value>
@@ -596,7 +596,7 @@
     <value>_MethodDef</value>
   </data>
   <data name="MemberRef_MethodDef_ToolTip" xml:space="preserve">
-    <value>Khởi tạo lớp từ MethodDef</value>
+    <value>Khởi tạo Class từ MethodDef</value>
   </data>
   <data name="MemberRef_MethodSigTab" xml:space="preserve">
     <value>MethodSig</value>
@@ -605,7 +605,7 @@
     <value>Mo_duleRef</value>
   </data>
   <data name="MemberRef_ModuleRef_ToolTip" xml:space="preserve">
-    <value>Khởi tạo lớp từ ModuleRef</value>
+    <value>Khởi tạo Class từ ModuleRef</value>
   </data>
   <data name="MemberRef_Name" xml:space="preserve">
     <value>_Tên</value>
@@ -620,7 +620,7 @@
     <value>Khởi tạo lớp từ TypeSpec</value>
   </data>
   <data name="MemberRef_Type_ToolTip" xml:space="preserve">
-    <value>Khởi tạo lớp từ Type</value>
+    <value>Khởi tạo Class từ Type</value>
   </data>
   <data name="MethodCantBeNull" xml:space="preserve">
     <value>Method không thể Null</value>
@@ -755,10 +755,10 @@
     <value>R</value>
   </data>
   <data name="RemoveLastTypeCharacter_ToolTip" xml:space="preserve">
-    <value>Xóa bỏ Kiểu cuối</value>
+    <value>Xóa bỏ Type cuối</value>
   </data>
   <data name="ReturnTypeRequired" xml:space="preserve">
-    <value>Yêu cầu kiểu trả về</value>
+    <value>Yêu cầu Type trả về</value>
   </data>
   <data name="SecurityDeclarationsTab" xml:space="preserve">
     <value>Sec Decls</value>
@@ -800,10 +800,10 @@
     <value>U</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Kiểu: {0}</value>
+    <value>Type: {0}</value>
   </data>
   <data name="TypeMustBeGeneric" xml:space="preserve">
-    <value>Kiểu phải là một Generic Type</value>
+    <value>Type phải là một Generic Type</value>
   </data>
   <data name="TypeSigCreator_Array" xml:space="preserve">
     <value>Arra_y</value>
@@ -830,7 +830,7 @@
     <value>_ByRef</value>
   </data>
   <data name="TypeSigCreator_ByRef_ToolTip" xml:space="preserve">
-    <value>Convert kiểu thành by-reference</value>
+    <value>Convert Type thành by-reference</value>
   </data>
   <data name="TypeSigCreator_Clear" xml:space="preserve">
     <value>Cl_ear</value>
@@ -950,17 +950,17 @@
     <value>Bạn không muốn lưu tập tin nữa?</value>
   </data>
   <data name="AskCancelSaveCloseWindow" xml:space="preserve">
-    <value>Tác vụ lưu tập tin đã bị hủy.
+    <value>Tác vụ lưu tập tin sẽ bị hủy.
 Bạn có muốn đóng cửa sổ không?</value>
   </data>
   <data name="AskDeleteField" xml:space="preserve">
-    <value>Trường dữ liệu này có thể còn được tham chiếu trong mã nguồn. Bạn có chắc chắn muốn xóa nó không?</value>
+    <value>Field dữ liệu này có thể còn được tham chiếu trong mã nguồn. Bạn có chắc chắn muốn xóa nó không?</value>
   </data>
   <data name="AskDeleteMethod" xml:space="preserve">
     <value>Method này có thể còn được tham chiếu trong mã nguồn. Bạn có chắc chắn muốn xóa nó không?</value>
   </data>
   <data name="AskDeleteType" xml:space="preserve">
-    <value>Có thể có mã trong một số Assembly mà tham chiếu kiểu này. Bạn có chắc chắn muốn xóa kiểu?</value>
+    <value>Có thể có mã trong một số Assembly mà tham chiếu kiểu này. Bạn có chắc chắn muốn xóa Type?</value>
   </data>
   <data name="AskExitUnsavedFile" xml:space="preserve">
     <value>Có một tệp tin chưa lưu. Bạn có muốn lưu nó trước khi thoát không?</value>
@@ -969,10 +969,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Có {0} tệp tin chưa lưu. Bạn có muốn lưu chúng trước khi thoát không?</value>
   </data>
   <data name="AskLoadAssembliesLoseChanges" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn tải các Assembly mới và hủy cả các thay đổi?</value>
+    <value>Bạn có chắc chắn muốn tải các Assembly mới và hủy tất cả các thay đổi?</value>
   </data>
   <data name="AskReloadAssembliesLoseChanges" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn tải lại tất cả assembly và hủy cả các thay đổi?</value>
+    <value>Bạn có chắc chắn muốn tải lại tất cả assembly và hủy tất cả các thay đổi?</value>
   </data>
   <data name="AskSaveFile" xml:space="preserve">
     <value>Các tập tin chưa được lưu. Bạn có muốn lưu nó trước khi tiếp tục?</value>
@@ -1011,7 +1011,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Sao chép File Offset</value>
   </data>
   <data name="CopyFileOffsetsCommand" xml:space="preserve">
-    <value>Sao chép các File Offset</value>
+    <value>Sao chép các File Offsets</value>
   </data>
   <data name="CopyMetaDataToken" xml:space="preserve">
     <value>Sao chép _MD Token</value>
@@ -1080,10 +1080,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Tạo MethodSig</value>
   </data>
   <data name="CreateMultiFileResourceCommand" xml:space="preserve">
-    <value>Tạo nhiều tệp Resource...</value>
+    <value>Tạo nhiều tệp Resources...</value>
   </data>
   <data name="CreateMultiFileResourceCommand2" xml:space="preserve">
-    <value>Tạo nhiều tệp Resource</value>
+    <value>Tạo nhiều tệp Resources</value>
   </data>
   <data name="CreateNestedTypeCommand" xml:space="preserve">
     <value>Tạo kiểu Nested...</value>
@@ -1134,7 +1134,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Xóa {0} Namespaces</value>
   </data>
   <data name="DeletePropertiesCommand" xml:space="preserve">
-    <value>Xóa {0} propertys</value>
+    <value>Xóa {0} Propertys</value>
   </data>
   <data name="DeletePropertyCommand" xml:space="preserve">
     <value>Xóa Property</value>
@@ -1143,13 +1143,13 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Xóa Resource</value>
   </data>
   <data name="DeleteResourcesCommand" xml:space="preserve">
-    <value>Xóa {0} resources</value>
+    <value>Xóa {0} Resources</value>
   </data>
   <data name="DeleteTypeCommand" xml:space="preserve">
     <value>Xóa Type</value>
   </data>
   <data name="DeleteTypesCommand" xml:space="preserve">
-    <value>Xóa {0} type</value>
+    <value>Xóa {0} Types</value>
   </data>
   <data name="EditFieldMemberRef" xml:space="preserve">
     <value>Chỉnh sửa Field MemberRef</value>
@@ -1206,10 +1206,10 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Type_Spec...</value>
   </data>
   <data name="EditPropertyCommand" xml:space="preserve">
-    <value>Sửa Thuộc tính...</value>
+    <value>Sửa Property...</value>
   </data>
   <data name="EditPropertyCommand2" xml:space="preserve">
-    <value>Sửa Thuộc tính</value>
+    <value>Sửa Properties</value>
   </data>
   <data name="EditResourceCommand" xml:space="preserve">
     <value>Sửa Resource...</value>
@@ -1829,11 +1829,11 @@ Các tập tin đầu ra sẽ nhỏ hơn một chút</value>
     <value>_Chế độ trộn Module</value>
   </data>
   <data name="SaveModule_UseMixedMode_ToolTip" xml:space="preserve">
-    <value>Nên kiểm tra nếu đó là mô-đun chế độ hỗn hợp (ví dụ: C ++/. NET).
+    <value>Nên kiểm tra nếu đó là Module chế độ hỗn hợp (ví dụ: C ++/. NET).
 Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này được chọn</value>
   </data>
   <data name="SaveModule_WritePdb" xml:space="preserve">
-    <value>Lưu tệp_PDB</value>
+    <value>Lưu tệp _PDB</value>
   </data>
   <data name="SaveResourceCommand" xml:space="preserve">
     <value>Lưu {0}</value>
@@ -2169,13 +2169,13 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>Cảnh báo</value>
   </data>
   <data name="AddAssemblyReferenceToolTip" xml:space="preserve">
-    <value>Thêm tham chiếu Assembly</value>
+    <value>Thêm Assembly Reference</value>
   </data>
   <data name="AddGacReferenceToolTip" xml:space="preserve">
-    <value>Thêm tham chiếu Assembly (GAC)</value>
+    <value>Thêm Assembly Reference (GAC)</value>
   </data>
   <data name="Error_CouldNotAddAssemblyReferences" xml:space="preserve">
-    <value>Không thể thêm tham chiếu Assembly.</value>
+    <value>Không thể thêm Assembly Reference.</value>
   </data>
   <data name="EditMethodCode" xml:space="preserve">
     <value>Sửa Method code</value>
@@ -2193,7 +2193,7 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>Không thể tìm thấy Method: {0}</value>
   </data>
   <data name="ERR_IM_CouldNotFindMethodType" xml:space="preserve">
-    <value>Không thể tìm thấy kiểu của Method đã sửa: {0}</value>
+    <value>Không thể tìm thấy type của Method đã sửa: {0}</value>
   </data>
   <data name="ERR_IM_CouldNotFindType" xml:space="preserve">
     <value>Không thể tìm thấy Type: {0}</value>
@@ -2277,7 +2277,7 @@ Hầu hết các tùy chọn sẽ được khởi tạo lại khi hộp này đ�
     <value>Ctrl+Shift+O</value>
   </data>
   <data name="EditCodeAddClassMembers" xml:space="preserve">
-    <value>Thêm class members</value>
+    <value>Thêm Class Members</value>
   </data>
   <data name="EditCodeAddClassMembers2" xml:space="preserve">
     <value>Thêm Class Members ({0})...</value>

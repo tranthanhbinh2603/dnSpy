@@ -261,7 +261,7 @@ Lỗi: {0}</value>
     <value>Không thể phá vỡ quá trình. Lỗi: 0x{0:X8}</value>
   </data>
   <data name="InternalDebuggerError" xml:space="preserve">
-    <value>Lỗi trình gỡ lỗi nội bộ</value>
+    <value>Internal debugger error</value>
   </data>
   <data name="Error_CLRDebuggerErrorOccurred" xml:space="preserve">
     <value>Đã xảy ra lỗi trình gỡ lỗi CLR. Dừng quá trình đã gỡ lỗi và thử lại.
@@ -270,7 +270,7 @@ HR: 0x{0:X8}
 Error: 0x{1:X8}</value>
   </data>
   <data name="DbgAsm_UseHostExecutable" xml:space="preserve">
-    <value>Sử dụng máy chủ thực thi</value>
+    <value>Use host executable</value>
   </data>
   <data name="DbgAsm_Executable" xml:space="preserve">
     <value>E_xecutable</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MSBuild_CopyAppConfig" xml:space="preserve">
-    <value>Chép app.config ({0})</value>
+    <value>Copy app.config ({0})</value>
   </data>
   <data name="MSBuild_CouldNotCreateDirectory2" xml:space="preserve">
     <value>Không thể tạo thư mục {0}, Lỗi: {1}</value>
@@ -142,7 +142,7 @@
     <value>Dịch ngược BAML</value>
   </data>
   <data name="MSBuild_FailedToCreateProjectFile" xml:space="preserve">
-    <value>Không thể tạo project {0}, Exception message: {1}</value>
+    <value>Không thể tạo Project {0}, Exception message: {1}</value>
   </data>
   <data name="MSBuild_FailedToCreateSolutionFile" xml:space="preserve">
     <value>Không thể tạo Solution {0}, Exception message: {1}</value>

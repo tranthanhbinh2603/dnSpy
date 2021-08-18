@@ -169,7 +169,7 @@
     <value>Expanding the Dynamic View will get the dynamic members for the object</value>
   </data>
   <data name="DebuggerVarsWindow_ExpandResultsViewMessage" xml:space="preserve">
-    <value>Mở rộng Chế độ xem kết quả sẽ liệt kê</value>
+    <value>Expanding the Results View will enumerate the IEnumerable</value>
   </data>
   <data name="DebuggerVarsWindow_InstanceMembers" xml:space="preserve">
     <value>Instance members</value>
@@ -205,10 +205,10 @@
     <value>Fields</value>
   </data>
   <data name="FilterExpressionEvaluator_CompiledExpressionThrewAnException" xml:space="preserve">
-    <value>Biểu thức biên dịch đã ném một ngoại lệ: {0}</value>
+    <value>Compiled expression threw an exception: {0}</value>
   </data>
   <data name="FilterExpressionEvaluator_InvalidExpression" xml:space="preserve">
-    <value>Biểu thức không hợp lệ</value>
+    <value>Expression is invalid</value>
   </data>
   <data name="InterfacesToolTip" xml:space="preserve">
     <value>Giao diện</value>
@@ -223,7 +223,7 @@
     <value>{0} đã trả về</value>
   </data>
   <data name="LocalsWindow_TypeVariables" xml:space="preserve">
-    <value>Kiểu biến</value>
+    <value>Type variables</value>
   </data>
   <data name="MethodsToolTip" xml:space="preserve">
     <value>Methods</value>
@@ -247,7 +247,7 @@
     <value>Structures</value>
   </data>
   <data name="SystemCoreDllNotLoaded" xml:space="preserve">
-    <value>Chế độ xem kết quả yêu cầu {0} để được tham chiếu</value>
+    <value>Results View requires {0} to be referenced</value>
   </data>
   <data name="TypeDoesNotExistInAssembly" xml:space="preserve">
     <value>Type '{0}' doesn't exist in assembly '{1}'</value>

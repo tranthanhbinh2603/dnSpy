@@ -162,7 +162,7 @@
     <value>Dữ liệu mới không phải là danh sách hình ảnh.</value>
   </data>
   <data name="NoTypeConverter" xml:space="preserve">
-    <value>{0} không có kiểu TypeConverter và không thể chuyển đổi từ một chuỗi.</value>
+    <value>{0} không có TypeConverter và không thể chuyển đổi từ một string.</value>
   </data>
   <data name="NumberOfBytes" xml:space="preserve">
     <value>{0} bytes</value>
@@ -186,7 +186,7 @@
     <value>Sử dụng '{0}' để đảo ngược giống nhau, ví dụ {1}</value>
   </data>
   <data name="ValueMustBeType" xml:space="preserve">
-    <value>Giá trị phải là kiểu {0}.
+    <value>Giá trị phải là type {0}.
 Lỗi: {1}</value>
   </data>
 </root>
