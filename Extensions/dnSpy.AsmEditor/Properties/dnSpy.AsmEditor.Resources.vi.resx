@@ -704,7 +704,7 @@
     <value>Giá trị mặc định cho Parameter này</value>
   </data>
   <data name="PasteAfterSelectionCommand" xml:space="preserve">
-    <value>Dán sau Se_lection</value>
+    <value>Dán sau lựa chọn</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
     <value>_Dán</value>
@@ -1482,7 +1482,7 @@ Bạn có muốn đóng cửa sổ không?</value>
     <value>Type</value>
   </data>
   <data name="Local_Command1" xml:space="preserve">
-    <value>Thêm Local mới tr_ước Selection</value>
+    <value>Thêm Local mới tr_ước lựa chọn</value>
   </data>
   <data name="Local_Command2" xml:space="preserve">
     <value>Thêm Local mới sau Sele_ction</value>
