@@ -28,9 +28,6 @@ For x64: ./build.ps1 net-x64
 For x86: ./build.ps1 net-x86
 ```
 
-If you want to rebuild dnSpy, install .NET 5.0 at https://dotnet.microsoft.com/download/dotnet/5.0.
-First you need to Clean Solution (Realease/AnyCPU), then Build Solution (Realease/AnyCPU), finally REBUILD dnSpy (AnyCPU).
-
 To debug Unity games, you need this repo too: https://github.com/dnSpy/dnSpy-Unity-mono (or get the binaries from https://github.com/dnSpy/dnSpy/releases/unity)
 
 # Debugger
