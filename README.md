@@ -4,7 +4,7 @@ dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug a
 
 - Debug .NET and Unity assemblies
 - Edit .NET and Unity assemblies
-- Light and dark themes
+- Light and Dark themes
 
 See below for more features
 
