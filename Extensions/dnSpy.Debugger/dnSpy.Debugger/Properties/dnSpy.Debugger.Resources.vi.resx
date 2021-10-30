@@ -1390,7 +1390,7 @@ Bạn có chắc chắn muốn mở rộng nó không?</value>
     <value>Hiển thị các biến trình biên dịch tạo ra</value>
   </data>
   <data name="DbgSettings_ShowDecompilerGeneratedVariables" xml:space="preserve">
-    <value>Hiển thị các biến trình biên dịch tạo ra</value>
+    <value>Hiển thị các biến trình dịch ngược tạo ra</value>
   </data>
   <data name="DbgSettings_SortLocals" xml:space="preserve">
     <value>Sắp xếp các Locals</value>
