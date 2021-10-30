@@ -19,6 +19,7 @@ https://github.com/VNGhostMans/dnSpy/releases
 ## Building
 
 ```PS
+First, Clean the Project
 ## For .NET Framework Build:
 git clone --recursive https://github.com/VNGhostMans/dnSpy.git
 cd dnSpy
